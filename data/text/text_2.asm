@@ -1696,13 +1696,14 @@ _LinkCanceledText::
 	done
 
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "toki!"
+	line "kama pona tawa ma"
+	cont "MONSUTA POKI!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "nimi mi li OKU!"
+	line "jan nimi e mi"
+	cont "lawa pi MONSUTA"
+	cont "POKI!"
 	prompt
 
 _OakSpeechText2A::
