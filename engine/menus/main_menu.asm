@@ -335,8 +335,8 @@ ContinueText:
 	; fallthrough
 
 NewGameText:
-	db   "NEW GAME"
-	next "OPTION@"
+	db   "musi sin"
+	next "pana sona@"
 
 CableClubOptionsText:
 	db   "TRADE CENTER"

@@ -575,10 +575,10 @@ _IndigoPlateauHQText::
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> is"
-	line "playing the SNES!"
-	cont "...Okay!"
-	cont "It's time to go!"
+	text "<PLAYER> li musi e"
+	line "musi SNES!"
+	cont "...oke!"
+	cont "mi o tawa!"
 	done
 
 _Route15UpstairsBinocularsText::
@@ -1440,8 +1440,8 @@ _RareCandyText::
 	text_end
 
 _TurnedOnPC1Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "<PLAYER> pana e"
+	line "ilo nanpa."
 	prompt
 
 _AccessedBillsPCText::
@@ -1468,8 +1468,8 @@ _AccessedMyPCText::
 	prompt
 
 _TurnedOnPC2Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "<PLAYER> pana e"
+	line "ilo nanpa."
 	prompt
 
 _WhatDoYouWantText::
@@ -1696,82 +1696,85 @@ _LinkCanceledText::
 	done
 
 _OakSpeechText1::
-	text "toki!"
-	line "kama pona tawa ma"
-	cont "MONSUTA POKI!"
+	text "toki! kama pona"
+	line "tawa ma pi monsuta"
+	cont "poki!"
 
-	para "nimi mi li OKU!"
-	line "jan nimi e mi"
-	cont "lawa pi MONSUTA"
-	cont "POKI!"
+	para "nimi mi li jan"
+	line "OKU. tawa jan"
+	cont "mute la mi jan"
+	cont "sona pi monsuta"
+	cont "poki!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@"
+	text "ma ni la lon"
+	line "soweli pi nimi"
+	cont "monsuta poki!@"
 	text_end
 
 _OakSpeechText2B::
 	text_start
 
-	para "For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	para "tawa jan mute la"
+	line "ona li jan pona."
+	cont "tawa jan ante la"
+	cont "ona li ilo utala."
 
-	para "Myself..."
+	para "mi la..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "mi kama jo e"
+	line "sona pi monsuta"
+	cont "poki. ona li"
+	cont "musi mute!"
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "tenpo ni la,"
+	line "nimi sina li"
+	cont "seme?"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
-
-	para "...Erm, what is"
-	line "his name again?"
+	text "jan ni li jan"
+	line "kulupu mi. tan"
+	cont "tenpo sina pi"
+	cont "jan lili la,"
+	cont "ona li jan"
+	cont "utala tawa sina."
+	
+	para "...a, nimi ona"
+	line "li seme?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "tenpo ni la sina"
+	line "kama jo e monsuta"
+	cont "poki tawa sina"
+	cont "taso! o musi e"
+	cont "nasin sina a!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
 	done
 
 _DoYouWantToNicknameText::
-	text "Do you want to"
-	line "give a nickname"
-	cont "to @"
+	text "sina wile pana"
+	line "pana e nimi ante"
+	cont "tawa @"
 	text_ram wcd6d
 	text "?"
 	done
 
 _YourNameIsText::
-	text "Right! So your"
-	line "name is <PLAYER>!"
+	text "lon! nimi sina"
+	line "li <PLAYER>!"
 	prompt
 
 _HisNameIsText::
-	text "That's right! I"
-	line "remember now! His"
-	cont "name is <RIVAL>!"
+	text "a! sin la mi"
+	line "sona! nimi ona"
+	cont "li <RIVAL>!"
 	prompt
 
 _WillBeTradedText::
