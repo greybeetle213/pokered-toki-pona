@@ -280,8 +280,9 @@ _CeladonCityHotelText::
 	done
 
 _BookcaseText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "poki li jo e lipu"
+	line "mute pi monsuta"
+	cont "poki."
 	done
 
 _NewBicycleText::
@@ -798,8 +799,9 @@ _IndigoPlateauStatuesText3::
 	done
 
 _PokemonBooksText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "poki li jo e lipu"
+	line "mute pi monsuta"
+	cont "poki."
 	done
 
 _DiglettSculptureText::
@@ -872,8 +874,8 @@ _MoneyForWinningText::
 	prompt
 
 _TrainerDefeatedText::
-	text "<PLAYER> defeated"
-	line "@"
+	text "<PLAYER> li anpa"
+	line "e@"
 	text_ram wTrainerName
 	text "!"
 	prompt
@@ -881,7 +883,7 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "li tawa anpa!"
 	prompt
 
 _UseNextMonText::
@@ -889,8 +891,8 @@ _UseNextMonText::
 	done
 
 _Sony1WinText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: lon! mi"
+	line "pona anu seme?"
 	prompt
 
 _PlayerBlackedOutText2::
@@ -922,8 +924,8 @@ _TrainerAboutToUseText::
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " sent"
-	line "out @"
+	text " weka"
+	line "e @"
 	text_ram wEnemyMonNick
 	text "!"
 	done
@@ -1081,12 +1083,14 @@ _MonName1Text::
 
 _Used1Text::
 	text_start
-	line "used @"
+	line "li kepeken e"
+	cont "@"
 	text_end
 
 _Used2Text::
 	text_start
-	line "used @"
+	line "li kepeken e"
+	cont "@"
 	text_end
 
 _InsteadText::
@@ -1256,8 +1260,8 @@ _EnemyAppearedText::
 
 _TrainerWantsToFightText::
 	text_ram wTrainerName
-	text " wants"
-	line "to fight!"
+	text " li wile"
+	line "utala!"
 	prompt
 
 _UnveiledGhostText::
@@ -1730,7 +1734,7 @@ _OakSpeechText2B::
 	prompt
 
 _IntroducePlayerText::
-	text "tenpo ni la,"
+	text "sinpin la,"
 	line "nimi sina li"
 	cont "seme?"
 	prompt
@@ -1760,7 +1764,7 @@ _OakSpeechText3::
 
 _DoYouWantToNicknameText::
 	text "sina wile pana"
-	line "pana e nimi ante"
+	line "e nimi ante"
 	cont "tawa @"
 	text_ram wcd6d
 	text "?"

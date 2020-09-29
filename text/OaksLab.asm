@@ -1,103 +1,109 @@
 _OaksLabGaryText1::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: a."
+	line "<PLAYER> o! mama"
+	cont "suli li lon ala."
 	done
 
 _OaksLabText40::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: a a,"
+	line "sama sina ala la"
+	cont "mi wile ala e"
+	cont "mute!"
 
-	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	para "<PLAYER> o, o"
+	line "tawa kama jo!"
 	done
 
 _OaksLabText41::
-	text "<RIVAL>: My"
-	line "#MON looks a"
-	cont "lot stronger."
+	text "<RIVAL>: monsuta"
+	line "poki mi li wawa"
+	cont "mute. monsuta"
+	cont "poki sina li"
+	cont "wawa ike."
 	done
 
 _OaksLabText39::
-	text "Those are #"
-	line "BALLs. They"
-	cont "contain #MON!"
+	text "sike poki # li"
+	line "jo e monsuta"
+	cont "poki!"
 	done
 
 _OaksLabCharmanderText::
-	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	text "a! sina wile e"
+	line "monsuta poki seli,"
+	cont "SITOKAKE?"
 	done
 
 _OaksLabSquirtleText::
-	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	text "a! sina wile e"
+	line "monsuta poki telo,"
+	cont "SENIKAME?"
 	done
 
 _OaksLabBulbasaurText::
-	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	text "a! sina wile e"
+	line "monsuta poki kili,"
+	cont "PUSIKITANE?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "monsuta poki ni"
+	line "li jo e wawa mute!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> li kama"
+	line "jo e @"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
-	line "last #MON!"
+	text "ona li monsuta"
+	line "poki pini pi"
+	cont "jan OKU!"
 	done
 
 _OaksLabText_1d2f0::
-	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
-	cont "you want?"
+	text "OKU: <PLAYER> o,"
+	line "sina wile e monsuta"
+	cont "poki seme?"
 	done
 
 _OaksLabText_1d2f5::
-	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
-	cont "fight against it!"
+	text "OKU: monsuta poki"
+	line "pi pilin ike la,"
+	cont "monsuta poki sina"
+	cont "li ken utala e"
+	cont "ona!"
 	done
 
 _OaksLabText_1d2fa::
-	text "OAK: <PLAYER>,"
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	text "OKU: <PLAYER> o,"
+	line "o suli e monsuta"
+	cont "poki lili tawa"
+	cont "utala!"
 	done
 
 _OaksLabDeliverParcelText1::
-	text "OAK: Oh, <PLAYER>!"
+	text "OKU: a, <PLAYER> o!"
 
-	para "How is my old"
-	line "#MON?"
+	para "monsuta poki pi"
+	line "pini jo la, ona"
+	cont "li pona ala pona?"
 
-	para "Well, it seems to"
-	line "like you a lot."
+	para "a, ona li pona"
+	line "mute tawa sina!"
 
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
+	para "sina li jan lawa"
+	line "pona mute pi"
+	cont "monsuta poki!"
 
-	para "What? You have"
-	line "something for me?"
+	para "seme? sina jo ala"
+	line "jo e ijo tawa mi?"
 
-	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@"
+	para "<PLAYER> pana e"
+	line "LIPU OKU.@"
 	text_end
 
 _OaksLabDeliverParcelText2::
@@ -115,7 +121,7 @@ _OaksLabAroundWorldText::
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OAK: You can't get"
+	text "OKU: You can't get"
 	line "detailed data on"
 	cont "#MON by just"
 	cont "seeing them."
@@ -148,7 +154,7 @@ _OaksLabGivePokeballsText2::
 	done
 
 _OaksLabPleaseVisitText::
-	text "OAK: Come see me"
+	text "OKU: Come see me"
 	line "sometimes."
 
 	para "I want to know how"
@@ -157,7 +163,7 @@ _OaksLabPleaseVisitText::
 	done
 
 _OaksLabText_1d31d::
-	text "OAK: Good to see "
+	text "OKU: Good to see "
 	line "you! How is your "
 	cont "#DEX coming? "
 	cont "Here, let me take"
@@ -165,9 +171,9 @@ _OaksLabText_1d31d::
 	prompt
 
 _OaksLabText_1d32c::
-	text "It's encyclopedia-"
-	line "like, but the"
-	cont "pages are blank!"
+	text "ona li lipu, taso"
+	line "ona li ala lon"
+	cont "lipu!"
 	done
 
 _OaksLabText8::
@@ -175,146 +181,144 @@ _OaksLabText8::
 	done
 
 _OaksLabText_1d340::
-	text "PROF.OAK is the"
-	line "authority on"
-	cont "#MON!"
+	text "jan OKU li jan"
+	line "lawa pi monsuta"
+	cont "poki!"
 
-	para "Many #MON"
-	line "trainers hold him"
-	cont "in high regard!"
+	para "jan suli pi"
+	line "monsuta poki pona"
+	cont "mute e ona!"
 	done
 
 _OaksLabRivalWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>: mama suli o!"
+	line "mi pini awen!"
 	done
 
 _OaksLabChooseMonText::
-	text "OAK: <RIVAL>?"
-	line "Let me think..."
+	text "OKU: <RIVAL> o?"
+	line "mi wile isipin..."
 
-	para "Oh, that's right,"
-	line "I told you to"
-	cont "come! Just wait!"
+	para "a, lon, mi"
+	line "toki e sina ni:"
+	cont "o kama!"
+	cont "o awen lili!"
 
-	para "Here, <PLAYER>!"
+	para "ma ni, <PLAYER> o!"
 
-	para "There are 3"
-	line "#MON here!"
+	para "monsuta poki tu"
+	line "wan li lon ma ni!"
 
-	para "Haha!"
+	para "a a!"
 
-	para "They are inside"
-	line "the # BALLs."
+	para "ona li lon insa"
+	line "pi poki sike."
 
-	para "When I was young,"
-	line "I was a serious"
-	cont "#MON trainer!"
+	para "tenpo mi pi jan"
+	line "lili la mi suli"
+	cont "pi wile wawa e"
+	cont "monsuta poki."
 
-	para "In my old age, I"
-	line "have only 3 left,"
-	cont "but you can have"
-	cont "one! Choose!"
+	para "tenpo suli mi la"
+	line "mi jo e tu wan,"
+	cont "taso sina ken"
+	cont "kama jo e wan!"
+	cont "o jo!"
 	done
 
 _OaksLabRivalInterjectionText::
-	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	text "<RIVAL>: a!"
+	line "mama suli o! mi"
+	cont "ken ala ken jo e"
+	cont "monsuta poki kin?"
 	done
 
 _OaksLabBePatientText::
-	text "OAK: Be patient!"
-	line "<RIVAL>, you can"
-	cont "have one too!"
+	text "OKU: o awen!"
+	line "<RIVAL> o, sina ken"
+	cont "jo e wan kin!"
 	done
 
 _OaksLabLeavingText::
-	text "OAK: Hey! Don't go"
-	line "away yet!"
+	text "OKU: a! tenpo ni"
+	line "la o weka ala!"
 	done
 
 _OaksLabRivalPickingMonText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: mi kama"
+	line "jo e ni!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "<RIVAL> kama jo"
+	line "e @"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _OaksLabRivalChallengeText::
-	text "<RIVAL>: Wait"
-	line "<PLAYER>!"
-	cont "Let's check out"
-	cont "our #MON!"
+	text "<RIVAL>: o awen,"
+	line "<PLAYER> o!"
+	cont "mi mute o lukin e"
+	cont "monsuta poki."
 
-	para "Come on, I'll take"
-	line "you on!"
+	para "a a, mi utala e"
+	line "sina!"
 	done
 
 _OaksLabText_1d3be::
-	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	text "seme?!"
+	line "mi kama jo e"
+	cont "monsuta poki ike!"
 	prompt
 
 _OaksLabText_1d3c3::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: a a! mi"
+	line "pona anu seme?"
 	prompt
 
 _OaksLabRivalToughenUpText::
-	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
+	text "<RIVAL>: oke!"
+	line "monsuta poki mi"
+	cont "li utala li wawa!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER> o! suli o!"
+	line "tenpo kama la"
+	cont "lukin e sina tu!"
 	done
 
 _OaksLabText21::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: suli o!"
 	done
 
 _OaksLabText22::
-	text "<RIVAL>: What did"
-	line "you call me for?"
+	text "<RIVAL>: sina kama"
+	line "e mi tan seme?"
 	done
 
 _OaksLabText23::
-	text "OAK: Oh right! I"
-	line "have a request"
-	cont "of you two."
+	text "OKU: o, lon! mi"
+	line "jo e wile sona"
+	cont "tawa sina tu."
 	done
 
 _OaksLabText24::
-	text "On the desk there"
-	line "is my invention,"
-	cont "#DEX!"
+	text "pali mi li lon supa"
+	line "ni la ilo monsuta!"
 
-	para "It automatically"
-	line "records data on"
-	cont "#MON you've"
-	cont "seen or caught!"
-
-	para "It's a hi-tech"
-	line "encyclopedia!"
-	done
+	para "monsuta poki sina"
+	line "pi kama jo la ona"
+	cont "li lipu e sona!"
 
 _OaksLabText25::
-	text "OAK: <PLAYER> and"
-	line "<RIVAL>! Take"
-	cont "these with you!"
+	text "OKU: <PLAYER> en"
+	line "<RIVAL> o! o kama"
+	cont "jo e ni lon poka"
+	cont "sina!"
 
-	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	para "<PLAYER> jo e"
+	line "ilo monsuta tan"
+	cont "OKU!@"
 	text_end
 
 _OaksLabText26::
@@ -359,8 +363,9 @@ _OaksLabText27::
 	done
 
 _OaksLabText_1d405::
-	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	text "mi lukin e monsuta"
+	line "poki. mi pona e jan"
+	cont "OKU."
 	done
 
 _OaksLabText_441cc::
@@ -374,7 +379,7 @@ _OaksLabText_441cc::
 	text_decimal hDexRatingNumMonsOwned, 1, 3
 	text " #MON owned"
 
-	para "PROF.OAK's"
+	para "PROF.OKU's"
 	line "Rating:"
 	prompt
 

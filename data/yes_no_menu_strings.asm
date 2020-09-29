@@ -16,12 +16,12 @@ TwoOptionMenuStrings:
 	two_option_menu 4, 3, FALSE, .NoYesMenu
 
 .NoYesMenu:
-	db   "NO"
-	next "YES@"
+	db   "ala"
+	next "lon@"
 
 .YesNoMenu:
-	db   "YES"
-	next "NO@"
+	db   "lon"
+	next "ala@"
 
 .NorthWestMenu:
 	db   "NORTH"

@@ -194,7 +194,7 @@ _MoveWasDisabledText::
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "ala li kama!"
 	prompt
 
 _NoEffectText::

@@ -1,56 +1,62 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OKU: a! o awen!"
+	line "o tawa lon selo"
+	cont "ala!@"
 	text_end
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OKU: ike a!"
+	line "monsuta poki pi"
+	cont "pilin ike li lon"
+	cont "kili laso suli."
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "sina wile monsuta"
+	line "poki pi sina taso"
+	cont "tan ni: ona li"
+	cont "pana e wawa tawa"
+	cont "sina. a, mi sona!"
 
-	para "Here, come with"
-	line "me!"
+	para "o kama lon poka"
+	line "pi mi!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "mi suli e monsuta"
+	line "poki kin!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "tenpo pi wawa"
+	line "la ona li ken"
+	cont "pana e wawa tawa"
+	cont "mi!"
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "ilo nanpa li"
+	line "pona a!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "tenpo ni la sin"
+	line "ken awen e ijo"
+	cont "li kama jo sin"
+	cont "e ijo e monsuta"
+	cont "poki!"
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "tomo sona pi"
+	line "monsuta poki pi"
+	cont "jan OKU."
 	done
 
 _PalletTownText5::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "ma tomo Pale"
+	line "nasin sina li"
+	cont "awen tawa sina!"
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "tomo <PLAYER> "
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text "tomo <RIVAL> "
 	done

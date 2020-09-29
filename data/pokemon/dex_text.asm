@@ -1249,13 +1249,13 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "tan kili li pana"
+	next "e monsi ona alu"
+	next "tenpo pi kama lon."
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "kili li suli e"
+	next "lon poka monsuta"
+	next "poki ni"
 	dex
 
 _VenusaurDexEntry::
@@ -1399,23 +1399,25 @@ _MagnemiteDexEntry::
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
-
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	text "ma seli li pona"
+	next "tawa ona. kama"
+	next "anpa pi telo sewi"
+	
+	page "la, telo kon li"
+	next "kama tan linja"
+	next "ona"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "tenpo ona pi"
+	next "kama lon la ona"
+	next "li kama jo e"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "selo kiwen lon"
+	next "monsi. ona li"
+	next "pana e telo tan"
+	
+	page "uta ona"
 	dex
 
 _CharmeleonDexEntry::

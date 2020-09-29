@@ -1,37 +1,37 @@
 _MomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "MAMA: lon."
+	line "tenpo suno la"
+	cont "jan ale li weka."
+	cont "ilo lukin li"
+	cont "toki e ni."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "jan OKU li lon"
+	line "tomo lon poka."
+	cont "ona alasa lukin"
+	cont "e sina."
 	done
 
 _MomHealText1::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "MAMA: <PLAYER>!"
+	line "sina o lape lili!"
 	prompt
 
 _MomHealText2::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "MAMA: pona a!"
+	line "sina en monsuta"
+	cont "poki li pona"
+	cont "sijele. o pona!"
 	done
 
 _StandByMeText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "musi tawa li lon"
+	line "ilo lukin."
+	cont "jan tu tu li tawa"
+	cont "lon nasin."
 
-	para "I better go too."
+	para "mi o tawa kin."
 	done
 
 _TVWrongSideText::
-	text "Oops, wrong side."
+	text "a! ma ni ala."
 	done
