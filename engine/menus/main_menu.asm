@@ -330,7 +330,7 @@ SpecialEnterMap::
 	jp EnterMap
 
 ContinueText:
-	db "CONTINUE"
+	db "musi awen"
 	next ""
 	; fallthrough
 

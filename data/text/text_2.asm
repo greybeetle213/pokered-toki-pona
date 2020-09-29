@@ -291,8 +291,8 @@ _NewBicycleText::
 	done
 
 _PushStartText::
-	text "Push START to"
-	line "open the MENU!"
+	text "o pana e START"
+	line "tawa open e LIPU!"
 	done
 
 _SaveOptionText::
@@ -875,7 +875,7 @@ _MoneyForWinningText::
 
 _TrainerDefeatedText::
 	text "<PLAYER> li anpa"
-	line "e@"
+	line "e @"
 	text_ram wTrainerName
 	text "!"
 	prompt
@@ -946,7 +946,7 @@ _NoRunningText::
 	prompt
 
 _GotAwayText::
-	text "Got away safely!"
+	text "weka pona!"
 	prompt
 
 _ItemsCantBeUsedHereText::
@@ -1238,10 +1238,9 @@ _GrewLevelText::
 	text_end
 
 _WildMonAppearedText::
-	text "Wild @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "ike li lon!"
 	prompt
 
 _HookedMonAttackedText::
@@ -1276,7 +1275,7 @@ _GhostCantBeIDdText::
 	prompt
 
 _GoText::
-	text "Go! @"
+	text "o tawa! @"
 	text_end
 
 _DoItText::
@@ -1437,14 +1436,14 @@ _ReviveText::
 
 _RareCandyText::
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " li suli"
+	line "tawa wawa @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
 
 _TurnedOnPC1Text::
-	text "<PLAYER> pana e"
+	text "<PLAYER> open e"
 	line "ilo nanpa."
 	prompt
 
@@ -1477,68 +1476,69 @@ _TurnedOnPC2Text::
 	prompt
 
 _WhatDoYouWantText::
-	text "What do you want"
-	line "to do?"
+	text "sina wili pali e"
+	line "seme?"
 	done
 
 _WhatToDepositText::
-	text "What do you want"
-	line "to deposit?"
+	text "sina wile pana e"
+	line "seme?"
 	done
 
 _DepositHowManyText::
-	text "How many?"
+	text "mute seme?"
 	done
 
 _ItemWasStoredText::
 	text_ram wcd6d
-	text " was"
-	line "stored via PC."
+	text " li"
+	line "pana."
 	prompt
 
 _NothingToDepositText::
-	text "You have nothing"
-	line "to deposit."
+	text "sina jo e ala."
+	line "sina ken pana"
+	cont "ala."
 	prompt
 
 _NoRoomToStoreText::
-	text "No room left to"
-	line "store items."
+	text "ken jo pi poki"
+	line "ni li pini."
 	prompt
 
 _WhatToWithdrawText::
-	text "What do you want"
-	line "to withdraw?"
+	text "sine wile kama jo"
+	line "e seme?"
 	done
 
 _WithdrawHowManyText::
-	text "How many?"
+	text "mute seme?"
 	done
 
 _WithdrewItemText::
-	text "Withdrew"
+	text "kama jo e"
 	line "@"
 	text_ram wcd6d
 	text "."
 	prompt
 
 _NothingStoredText::
-	text "There is nothing"
-	line "stored."
+	text "ala li lon poki"
+	line "ni."
 	prompt
 
 _CantCarryMoreText::
-	text "You can't carry"
-	line "any more items."
+	text "sina ken ala jo e"
+	line "ijo mute."
 	prompt
 
 _WhatToTossText::
-	text "What do you want"
-	line "to toss away?"
+	text "sina wile weka e"
+	line "seme?"
 	done
 
 _TossHowManyText::
-	text "How many?"
+	text "mute seme?"
 	done
 
 _AccessedHoFPCText::
@@ -1558,40 +1558,38 @@ _WhatText::
 	done
 
 _DepositWhichMonText::
-	text "Deposit which"
-	line "#MON?"
+	text "pana e monsuta"
+	line "poki seme?"
 	done
 
 _MonWasStoredText::
 	text_ram wcf4b
-	text " was"
-	line "stored in Box @"
+	text " li"
+	line "pana e poki @"
 	text_ram wBoxNumString
 	text "."
 	prompt
 
 _CantDepositLastMonText::
-	text "You can't deposit"
-	line "the last #MON!"
+	text "sina ken ala pana"
+	line "e monsuta poki pi"
+	cont "nanpa pini!"
 	prompt
 
 _BoxFullText::
-	text "Oops! This Box is"
-	line "full of #MON."
+	text "a! ken jo pi poki"
+	line "ni li pini."
 	prompt
 
 _MonIsTakenOutText::
+	text "Kama jo e"
 	text_ram wcf4b
-	text " is"
-	line "taken out."
-	cont "Got @"
-	text_ram wcf4b
-	text "."
+	text "@."
 	prompt
 
 _NoMonText::
-	text "What? There are"
-	line "no #MON here!"
+	text "seme? monsuta poki"
+	line "ala li lon!"
 	prompt
 
 _CantTakeMonText::
@@ -1701,8 +1699,8 @@ _LinkCanceledText::
 
 _OakSpeechText1::
 	text "toki! kama pona"
-	line "tawa ma pi monsuta"
-	cont "poki!"
+	line "tawa ma pi"
+	cont "monsuta poki!"
 
 	para "nimi mi li jan"
 	line "OKU. tawa jan"

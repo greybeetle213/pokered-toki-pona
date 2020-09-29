@@ -23,27 +23,27 @@ _OaksLabText41::
 	done
 
 _OaksLabText39::
-	text "sike poki # li"
+	text "sike poki li"
 	line "jo e monsuta"
 	cont "poki!"
 	done
 
 _OaksLabCharmanderText::
 	text "sina wile ala wile"
-	line "e monsuta poki seli,"
-	cont "SITOKAKE o?"
+	line "e monsuta poki"
+	cont "seli, AKESELI o?"
 	done
 
 _OaksLabSquirtleText::
 	text "sina wile ala wile"
-	line "e monsuta poki telo,"
-	cont "SENIKAME o?"
+	line "e monsuta poki"
+	cont "telo, TESELO o?"
 	done
 
 _OaksLabBulbasaurText::
 	text "sina wile ala wile"
-	line "e monsuta poki kili,"
-	cont "PUSIKITANE o ?"
+	line "e monsuta poki kasi,"
+	cont "kasi, AKASI o?"
 	done
 
 _OaksLabMonEnergeticText::
@@ -89,7 +89,8 @@ _OaksLabDeliverParcelText1::
 	text "OKU: a, <PLAYER> o!"
 
 	para "monsuta poki pi"
-	line "pini jo li pona ala pona?"
+	line "pini jo li pona"
+	cont "ala pona?"
 
 	para "a, sina li pona"
 	line "mute tawa ona!"
@@ -101,72 +102,73 @@ _OaksLabDeliverParcelText1::
 	para "seme? sina jo ala"
 	line "jo e ijo tawa mi?"
 
-	para "<PLAYER> pana e"
+	para "<PLAYER> li pana e"
 	line "LIPU OKU.@"
 	text_end
 
 _OaksLabDeliverParcelText2::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "a! sike poki sin"
+	line "la mi wile kama"
+	cont "jo! pona a!"
 	done
 
 _OaksLabAroundWorldText::
-	text "#MON around the"
-	line "world wait for"
-	cont "you, <PLAYER>!"
+	text "monsuta poki li"
+	line "lon ma ni ale."
+	cont "o tawa kama jo"
+	cont "e ona, <PLAYER> o!"
 	done
 
 _OaksLabGivePokeballsText1::
-	text "OKU: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "OKU: sina lukin e"
+	line "monsuta poki taso"
+	cont "la ike a."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "sina wile kama jo"
+	line "e ona! sina wile"
+	cont "kama jo e ona la"
+	cont "sina ken kepeken"
+	cont "e ona:"
 
-	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	para "<PLAYER> li kama jo e"
+	line "sike poki luka!@"
 	text_end
 
 _OaksLabGivePokeballsText2::
 	text_start
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "monsuta poki ike"
+	line "li lon la sina"
+	cont "ken kama jo e ona."
 
-	para "Just throw a #"
-	line "BALL at it and try"
-	line "to catch it!"
+	para "sina wile kama jo"
+	line "e ona la o weka e"
+	line "sike poki tawa"
+	cont "ona!"
 
-	para "This won't always"
-	line "work, though."
+	para "tenpo ale la ni li"
+	line "pali ala."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "monsuta poki pi"
+	line "sijelo pona li"
+	cont "ken weka. ken la"
+	cont "sina ken ala kama"
+	cont "jo e ona!"
 	done
 
 _OaksLabPleaseVisitText::
-	text "OKU: Come see me"
-	line "sometimes."
+	text "OKU: o kama lukin e"
+	line "mi lon tenpo mute."
 
-	para "I want to know how"
-	line "your #DEX is"
-	cont "coming along."
+	para "lipu monsuta sina"
+	line "la mi wile sona e"
+	cont "mute ona."
 	done
 
 _OaksLabText_1d31d::
-	text "OKU: Good to see "
-	line "you! How is your "
-	cont "#DEX coming? "
-	cont "Here, let me take"
-	cont "a look!"
+	text "OKU: toki!"
+	line "lipu monsuta li"
+	cont "sama seme?"
 	prompt
 
 _OaksLabText_1d32c::
@@ -198,8 +200,8 @@ _OaksLabChooseMonText::
 	line "mi wile isipin..."
 
 	para "a, lon, mi"
-	line "toki tawa sina e ni:"
-	cont "o kama!"
+	line "toki tawa sina e"
+	cont "ni: o kama!"
 	cont "o awen lili!"
 
 	para "ma ni, <PLAYER> o!"
@@ -283,7 +285,7 @@ _OaksLabRivalToughenUpText::
 
 	para "<PLAYER> o! suli o!"
 	line "tenpo kama la"
-	cont "lukin e sina tu!"
+	cont "mi lukin e sina!"
 	done
 
 _OaksLabText21::
@@ -302,12 +304,14 @@ _OaksLabText23::
 	done
 
 _OaksLabText24::
-	text "pali mi li lon supa"
-	line "ni la ilo monsuta!"
+	text "pali mi li lon"
+	line "supa ni la ilo"
+	cont "monsuta!"
 
 	para "monsuta poki sina"
 	line "pi kama jo la ona"
 	cont "li lipu e sona!"
+	done
 
 _OaksLabText25::
 	text "OKU: <PLAYER> en"
@@ -321,44 +325,46 @@ _OaksLabText25::
 	text_end
 
 _OaksLabText26::
-	text "To make a complete"
-	line "guide on all the"
-	cont "#MON in the"
-	cont "world..."
+	text "monsuta poki mute"
+	line "li lon ma ni."
+	cont "mi wile kama lipu"
+	cont "e monsuta poki"
+	cont "ale!"
 
-	para "That was my dream!"
+	para "taso, mi lili ala!"
+	line "mi ken ala pali"
+	cont "e ona taso!"
 
-	para "But, I'm too old!"
-	line "I can't do it!"
+	para "ni la mi wile e"
+	line "e ni: o kama lipu"
+	cont "e monsuta poki"
+	cont "ale tawa mi!"
 
-	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
+	para "o tawa pali, sina"
+	line "tu o!"
 
-	para "Get moving, you"
-	line "two!"
-
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	para "ni li wawa pona e"
+	line "sona pi mi mute"
+	cont "pi monsuta poki!"
 	done
 
 _OaksLabText27::
-	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
+	text "<RIVAL>: okepuma!"
+	line "mi ken pali e"
+	cont "ona lon mi taso!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER> o, mi"
+	line "pilin ike taso mi"
+	cont "wile ala e sina!"
 
-	para "I know! I'll"
-	line "borrow a TOWN MAP"
-	cont "from my sis!"
+	para "a! mi kama jo e"
+	line "lipu ma tan jan"
+	cont "pona mi!"
 
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	para "mi toki tawa ona"
+	line "e ni: <PLAYER> la o"
+	cont "pana e ona LIPU"
+	cont "MA! a a a!"
 	done
 
 _OaksLabText_1d405::

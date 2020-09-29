@@ -9,19 +9,19 @@ _OakWalksUpText::
 	cont "pilin ike li lon"
 	cont "kasi laso suli."
 
-	para "sina wile e monsuta"
-	line "poki pi sina taso"
-	cont "tan ni: ona li"
-	cont "awen e sina."
+	para "sina wile e"
+	line "monsuta poki pi"
+	cont "sina taso tan ni:"
+	cont "ona li awen e sina."
 	cont "a, mi sona!"
 
-	para "o kama lon poka mi!"
+	para "o kama lon poka"
+	line "mi!"
 	done
 
 _PalletTownText2::
 	text "mi suli e monsuta"
 	line "poki kin!"
-
 	para "ona li kama wawa"
 	line "li awen e mi!"
 	done
