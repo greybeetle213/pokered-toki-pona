@@ -1249,11 +1249,11 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "tan kili li pana"
-	next "e monsi ona alu"
-	next "tenpo pi kama lon."
+	text "tan kili la jan li"
+	next "kama lon monsi ona"
+	next "lon tenpo pi kama"
 
-	page "kili li suli e"
+	page "lon. kili li suli e"
 	next "lon poka monsuta"
 	next "poki ni"
 	dex

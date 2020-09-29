@@ -20,7 +20,7 @@ _MomHealText2::
 	text "MAMA: pona a!"
 	line "sina en monsuta"
 	cont "poki li pona"
-	cont "sijele. o pona!"
+	cont "sijelo. o pona!"
 	done
 
 _StandByMeText::

@@ -29,21 +29,21 @@ _OaksLabText39::
 	done
 
 _OaksLabCharmanderText::
-	text "a! sina wile e"
-	line "monsuta poki seli,"
-	cont "SITOKAKE?"
+	text "sina wile ala wile"
+	line "e monsuta poki seli,"
+	cont "SITOKAKE o?"
 	done
 
 _OaksLabSquirtleText::
-	text "a! sina wile e"
-	line "monsuta poki telo,"
-	cont "SENIKAME?"
+	text "sina wile ala wile"
+	line "e monsuta poki telo,"
+	cont "SENIKAME o?"
 	done
 
 _OaksLabBulbasaurText::
-	text "a! sina wile e"
-	line "monsuta poki kili,"
-	cont "PUSIKITANE?"
+	text "sina wile ala wile"
+	line "e monsuta poki kili,"
+	cont "PUSIKITANE o ?"
 	done
 
 _OaksLabMonEnergeticText::
@@ -89,13 +89,12 @@ _OaksLabDeliverParcelText1::
 	text "OKU: a, <PLAYER> o!"
 
 	para "monsuta poki pi"
-	line "pini jo la, ona"
-	cont "li pona ala pona?"
+	line "pini jo li pona ala pona?"
 
-	para "a, ona li pona"
-	line "mute tawa sina!"
+	para "a, sina li pona"
+	line "mute tawa ona!"
 
-	para "sina li jan lawa"
+	para "sina jan lawa pi"
 	line "pona mute pi"
 	cont "monsuta poki!"
 
@@ -171,9 +170,8 @@ _OaksLabText_1d31d::
 	prompt
 
 _OaksLabText_1d32c::
-	text "ona li lipu, taso"
-	line "ona li ala lon"
-	cont "lipu!"
+	text "ona li lipu."
+	line "ala li lon ona!"
 	done
 
 _OaksLabText8::
@@ -185,9 +183,9 @@ _OaksLabText_1d340::
 	line "lawa pi monsuta"
 	cont "poki!"
 
-	para "jan suli pi"
-	line "monsuta poki pona"
-	cont "mute e ona!"
+	para "jan pi suli"
+	line "monsuta poki li"
+	cont "pona tawa jan mute!"
 	done
 
 _OaksLabRivalWaitingText::
@@ -200,7 +198,7 @@ _OaksLabChooseMonText::
 	line "mi wile isipin..."
 
 	para "a, lon, mi"
-	line "toki e sina ni:"
+	line "toki tawa sina e ni:"
 	cont "o kama!"
 	cont "o awen lili!"
 
@@ -280,7 +278,8 @@ _OaksLabText_1d3c3::
 _OaksLabRivalToughenUpText::
 	text "<RIVAL>: oke!"
 	line "monsuta poki mi"
-	cont "li utala li wawa!"
+	cont "li kama wawa tan"
+	cont "utala!"
 
 	para "<PLAYER> o! suli o!"
 	line "tenpo kama la"
@@ -316,7 +315,7 @@ _OaksLabText25::
 	cont "jo e ni lon poka"
 	cont "sina!"
 
-	para "<PLAYER> jo e"
+	para "<PLAYER> li jo e"
 	line "ilo monsuta tan"
 	cont "OKU!@"
 	text_end

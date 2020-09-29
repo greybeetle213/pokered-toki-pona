@@ -1,42 +1,38 @@
 _OakAppearsText::
 	text "OKU: a! o awen!"
-	line "o tawa lon selo"
-	cont "ala!@"
+	line "o tawa ala!@"
 	text_end
 
 _OakWalksUpText::
 	text "OKU: ike a!"
 	line "monsuta poki pi"
 	cont "pilin ike li lon"
-	cont "kili laso suli."
+	cont "kasi laso suli."
 
-	para "sina wile monsuta"
+	para "sina wile e monsuta"
 	line "poki pi sina taso"
 	cont "tan ni: ona li"
-	cont "pana e wawa tawa"
-	cont "sina. a, mi sona!"
+	cont "awen e sina."
+	cont "a, mi sona!"
 
-	para "o kama lon poka"
-	line "pi mi!"
+	para "o kama lon poka mi!"
 	done
 
 _PalletTownText2::
 	text "mi suli e monsuta"
 	line "poki kin!"
 
-	para "tenpo pi wawa"
-	line "la ona li ken"
-	cont "pana e wawa tawa"
-	cont "mi!"
+	para "ona li kama wawa"
+	line "li awen e mi!"
 	done
 
 _PalletTownText3::
 	text "ilo nanpa li"
 	line "pona a!"
 
-	para "tenpo ni la sin"
+	para "tenpo ni la sina"
 	line "ken awen e ijo"
-	cont "li kama jo sin"
+	cont "li ken kama jo sin"
 	cont "e ijo e monsuta"
 	cont "poki!"
 	done

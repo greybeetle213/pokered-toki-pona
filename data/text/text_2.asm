@@ -1734,7 +1734,7 @@ _OakSpeechText2B::
 	prompt
 
 _IntroducePlayerText::
-	text "sinpin la,"
+	text "tenpo ni la,"
 	line "nimi sina li"
 	cont "seme?"
 	prompt
@@ -1763,8 +1763,8 @@ _OakSpeechText3::
 	done
 
 _DoYouWantToNicknameText::
-	text "sina wile pana"
-	line "e nimi ante"
+	text "sina wile ala wile"
+	line "pana e nimi ante"
 	cont "tawa @"
 	text_ram wcd6d
 	text "?"
