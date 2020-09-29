@@ -1,181 +1,191 @@
 _ViridianCityText1::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "sike poki a!"
+	line "sina jo e monsuta"
+	cont "poki!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "sina ken jo e"
+	line "monsuta poki lon"
+	cont "tenpo ale lon ma"
+	cont "ale."
 	done
 
 _ViridianCityText_19122::
-	text "This #MON GYM"
-	line "is always closed."
+	text "tomo wawa ni pi"
+	line "monsuta poki li"
+	cont "lon tenpo ale."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "mi wile sona e"
+	line "ni: jan lawa li"
+	cont "seme?"
 	done
 
 _ViridianCityText_19127::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "jan lawa pi ma"
+	line "tomo PETA li kama"
+	cont "sin!"
 	done
 
 _ViridianCityText_1914d::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "monsuta poki pi"
+	line "pipi pi linja"
+	cont "lili peta tu la"
+	cont "sina wile sona e"
+	cont "ona anu seme?"
 	done
 
 _ViridianCityText_19152::
-	text "Oh, OK then!"
+	text "a, oke!"
 	done
 
 _ViridianCityText_19157::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "KATAPIPI li jo ala"
+	line "e jaki, taso"
+	cont "PIPIPI li jo."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "o lukin e KIKI"
+	line "JAKI ona!"
 	done
 
 _ViridianCityText_19175::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "mama suli o!"
+	line "o paka e ona!"
+	cont "tenpo ni la ona"
+	cont "li jo ala e telo"
+	cont "pimeja wawa."
 	done
 
 _ViridianCityText_1917a::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "mi esun lon ma"
+	line "tomo KIWEN la mi"
+	cont "tawa lon nasin"
+	cont "nasa lon ma kasi"
+	cont "PETA."
 	done
 
 _ViridianCityText_19191::
-	text "You can't go"
-	line "through here!"
-
-	para "This is private"
-	line "property!"
-	done
+	text "sina ken ala tawa"
+	line "lon ma ni!"
 
 _ViridianCityText_191ca::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "mu!"
+	line "mi o lape lon"
+	cont "suno a."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "mi lape e"
+	line "LAPEPONA. ona li"
+	cont "moku e lape"
+	cont "sitelen mi."
+	cont "ni li seme?"
+	cont "IL ni li kama"			
+	cont "tan seme?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "ni li monsuta!"
+	line "o, sina ken jo e"
+	cont "IL ni."					
 	prompt
 
 _ReceivedTM42Text::
-	text "<PLAYER> received"
-	line "TM42!@"
+	text "<PLAYER> li kama"
+	line "jo e IL42!@"					
 	text_end
 
 _TM42Explanation::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "IL42 li jo e"				
+	line "MOKU LAPE..."
+	cont "...mu..."
 	done
 
 _TM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "ken jo pi poki"
+	line "sina li pini."
 	done
 
 _ViridianCityText_1920a::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "mi jo e telo"
+	line "pimeja wawa la"
+	cont "mi pilin pona a!"
 
-	para "Sure you can go"
-	line "through!"
+	para "lon, sina ken"
+	line "tawa!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "sina wile ale"
+	line "wile tawa pi noka"
+	cont "wawa?"
 	done
 
 _ViridianCityText_1920f::
-	text "I see you're using"
-	line "a #DEX."
+	text "sina kepeken e"
+	line "ilo monsuta la mi"
+	line "lukin."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "sina kama jo e"
+	line "monsuta poki la"
+	cont "sona pi ilo"
+	cont "monsuta li lipu."
+	cont "sin."
 
-	para "What? Don't you"
-	line "know how to catch"
-	cont "#MON?"
+	para "seme? sina sona"
+	line "ala sona e kama"
+	cont "jo e monsuta"
+	cont "poki?"
 
-	para "I'll show you"
-	line "how to then."
+	para "mi lukin e ona"
+	line "tawa sina."
 	done
 
 _ViridianCityText_19214::
-	text "Time is money..."
-	line "Go along then."
+	text "tenpi li ale..."
+	line "o tawa a."
 	done
 
 _ViridianCityText_19219::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Nanpa wan, sina"
+	line "wile wawa ike e"
+	cont "monsuta poki"
+	cont "ante."
 	done
 
 _ViridianCityText8::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "ma tomo PETA"
+	line "ma sewi pi peta"
+	cont "mute lon ma ale"
 	done
 
 _ViridianCityText9::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "o kama jo e"
+	line "monsuta poki"
+	cont "o suli e kulupu"
+	cont "sina!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "monsuta poki mute"
+	line "la utala li pona!"
+	cont "mute!"
 	done
 
 _ViridianCityText10::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "tawa utala pi"
+	line "monsuta poki li"
+	cont "sewi tan nanpa"
+	cont "kepeken, NK."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "sina wile kama jo"
+	line "e NK mute la lape"
+	cont "lili lon ma pi"
+	cont "monsuta poki!"
 	done
 
 _ViridianCityText13::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "tomo wawa pi"
+	line "ma tomo PETA"
 	done
 
 _ViridianCityText14::
-	text "The GYM's doors"
-	line "are locked..."
+	text "lupa pi tomo wawa"
+	line "li open ike..."
 	done

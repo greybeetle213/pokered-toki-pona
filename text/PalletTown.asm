@@ -44,7 +44,7 @@ _PalletTownText4::
 	done
 
 _PalletTownText5::
-	text "ma tomo Pale"
+	text "ma tomo PALE"
 	line "nasin sina li"
 	cont "awen tawa sina!"
 	done

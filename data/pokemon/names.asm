@@ -43,7 +43,7 @@ MonsterNames::
 	db "JANSIMA@@@"
 	db "UTALANOKA@"
 	db "UTALALUKA@"
-	db "MOLINJA@@@"
+	db "ILUSEKA@@@"
 	db "KAPINI@@@@"
 	db "LAWASO@@@@"
 	db "LAPEPONA@@"

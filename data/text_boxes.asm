@@ -67,7 +67,7 @@ JapaneseMainMenuText:
 
 BattleMenuText:
 	db   "UTALA <MN><PK>"
-	next "IJO   RUN@"
+	next "IJO   WEKA@"
 
 SafariZoneBattleMenuText:
 	db   "BALL×       BAIT"

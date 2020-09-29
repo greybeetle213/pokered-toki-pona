@@ -6,38 +6,39 @@ _DaisyInitialText::
 	done
 
 _DaisyOfferMapText::
-	text "Grandpa asked you"
-	line "to run an errand?"
-	cont "Here, this will"
-	cont "help you!"
+	text "mama suli li wile"
+	line "sona tawa sina e"
+	cont "ni: sina pona ala"
+	cont "pona e mi? ni li!"
+	cont "pona e sina!"
 	prompt
 
 _GotMapText::
-	text "<PLAYER> got a"
+	text "<PLAYER> li jo e"
 	line "@"
 	text_ram wcf4b
 	text "!@"
 	text_end
 
 _DaisyBagFullText::
-	text "You have too much"
-	line "stuff with you."
+	text "ken jo pi poki"
+	line "sina li pini."
 	done
 
 _DaisyUseMapText::
-	text "Use the TOWN MAP"
-	line "to find out where"
-	cont "you are."
+	text "kepeken LIPU MA"
+	line "la sina ken"
+	cont "lukin e lon sina."
 	done
 
 _BluesHouseDaisyWalkingText::
-	text "#MON are living"
-	line "things! If they"
-	cont "get tired, give"
-	cont "them a rest!"
+	text "monsuta poki li"
+	line "soweli lon! ona"
+	cont "li lape la o ken"
+	cont "e lape ona!"
 	done
 
 _BluesHouseTownMapText::
-	text "It's a big map!"
-	line "This is useful!"
+	text "lipu ma li"
+	line "suli a!"
 	done

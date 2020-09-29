@@ -1,50 +1,51 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "toki! mi pali lon"
+	line "esun pi monsuta"
+	cont "poki."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "ona li esun pona!"
+	line "o pona lukin e"
+	cont "mi lon"
+	cont "ma tomo PETA."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "a, mi pana e ijo"
+	line "tawa sina!"
 	prompt
 
 _Route1Text_1cae8::
-	text "<PLAYER> got"
-	line "@"
+	text "<PLAYER> li kama"
+	line "jo e @"
 	text_ram wcf4b
 	text "!@"
 	text_end
 
 _Route1Text_1caee::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "mi jo kin e sike"
+	line "poki!"
 	done
 
 _Route1Text_1caf3::
-	text "You have too much"
-	line "stuff with you!"
+	text "ken jo pi poki"
+	line "sina li pini!"
 	done
 
 _Route1Text2::
-	text "See those ledges"
-	line "along the road?"
+	text "sina lukin ala"
+	line "lukin e ma kiwen"
+	cont "lon nasin?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "ona li monsuta"
+	line "taso sina ken"
+	cont "anpa tan ona."
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "tenpo wawa mute"
+	line "la sina ken kama"
+	cont "sin tawa"
+	cont "ma tomo PALE."
 	done
 
 _Route1Text3::
-	text "ROUTE 1"
-	line "PALLET TOWN -"
-	cont "VIRIDIAN CITY"
+	text "NASIN 1"
+	line "ma tomo PALE -"
+	cont "ma tomo PETA"
 	done

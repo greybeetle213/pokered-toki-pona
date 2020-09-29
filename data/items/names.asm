@@ -18,7 +18,7 @@ ItemNames::
 	db "MAX POTION@"
 	db "HYPER POTION@"
 	db "SUPER POTION@"
-	db "POTION@"
+	db "TELO PANA@"
 	db "BOULDERBADGE@"
 	db "CASCADEBADGE@"
 	db "THUNDERBADGE@"

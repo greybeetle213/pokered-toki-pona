@@ -435,7 +435,7 @@ _OakLabEmailText::
 	para "tomo lawa pi"
 	line "kulupu pi monsuta"
 	cont "poki."
-	cont "ma SUPA LASO LOJE"
+	cont "ma supa LASO LOJE"
 
 	para "kin ni: jan OKU,"
 	line "o pona lukin e"
