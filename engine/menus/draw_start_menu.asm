@@ -78,7 +78,7 @@ StartMenuExitText:
 	db "WEKA@"
 
 StartMenuOptionText:
-	db "PALI@"
+	db "ANTE@"
 
 PrintStartMenuItem:
 	push hl

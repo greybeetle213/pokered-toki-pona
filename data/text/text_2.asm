@@ -291,7 +291,7 @@ _NewBicycleText::
 	done
 
 _PushStartText::
-	text "o pana e START"
+	text "o pana e nena OPEN"
 	line "tawa open e LIPU!"
 	done
 
@@ -415,29 +415,31 @@ _BillsHousePokemonListText2::
 	done
 
 _OakLabEmailText::
-	text "There's an e-mail"
-	line "message here!"
+	text "lipu toki li lon!"
 
 	para "..."
 
-	para "Calling all"
-	line "#MON trainers!"
+	para "jan lawa ale pi"
+	line "monsuta poki o!"
 
-	para "The elite trainers"
-	line "of #MON LEAGUE"
-	cont "are ready to take"
-	cont "on all comers!"
+	para "kulupu pi jan lawa"
+	line "suli pi monsuta"
+	cont "poki li kama jo e"
+	cont "jan kama sin!"
 
-	para "Bring your best"
-	line "#MON and see"
-	cont "how you rate as a"
-	cont "trainer!"
+	para "o jo e monsuta"
+	line "poki sina pi wawa"
+	cont "mute o lukin e"
+	cont "wawa sina!"
 
-	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
+	para "tomo lawa pi"
+	line "kulupu pi monsuta"
+	cont "poki."
+	cont "ma SUPA LASO LOJE"
 
-	para "PS: PROF.OAK,"
-	line "please visit us!"
+	para "kin ni: jan OKU,"
+	line "o pona lukin e"
+	cont "mi mute!"
 	cont "..."
 	done
 

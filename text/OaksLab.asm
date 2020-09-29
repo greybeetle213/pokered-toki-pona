@@ -304,8 +304,8 @@ _OaksLabText23::
 	done
 
 _OaksLabText24::
-	text "pali mi li lon"
-	line "supa ni la ilo"
+	text "lipu pi pali mi li"
+	line "lon supa ni la ilo"
 	cont "monsuta!"
 
 	para "monsuta poki sina"
@@ -327,17 +327,17 @@ _OaksLabText25::
 _OaksLabText26::
 	text "monsuta poki mute"
 	line "li lon ma ni."
-	cont "mi wile kama lipu"
-	cont "e monsuta poki"
-	cont "ale!"
+	cont "mi wile lipu e"
+	cont "sona pi monsuta"
+	cont "poki ale!"
 
 	para "taso, mi lili ala!"
 	line "mi ken ala pali"
 	cont "e ona taso!"
 
-	para "ni la mi wile e"
-	line "e ni: o kama lipu"
-	cont "e monsuta poki"
+	para "mi wile e ni:"
+	line "o lipu e sona"
+	cont "pi monsuta poki"
 	cont "ale tawa mi!"
 
 	para "o tawa pali, sina"
@@ -359,7 +359,7 @@ _OaksLabText27::
 
 	para "a! mi kama jo e"
 	line "lipu ma tan jan"
-	cont "pona mi!"
+	cont "sama mi!"
 
 	para "mi toki tawa ona"
 	line "e ni: <PLAYER> la o"
