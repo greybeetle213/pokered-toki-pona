@@ -1,9 +1,9 @@
 _Route2Text3::
-	text "ROUTE 2"
-	line "VIRIDIAN CITY -"
-	cont "PEWTER CITY"
+	text "NASIN 2"
+	line "ma tomo PETA tawa"
+	cont "ma tomo KIWEN"
 	done
 
 _Route2Text4::
-	text "DIGLETT's CAVE"
+	text "ma lupa NENA"
 	done

@@ -1,13 +1,13 @@
 _ViridianForestEntranceText1::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "sina tawa ala"
+	line "tawa ma kasi"
+	cont "PETA? o pona. ona"
+	cont "li nasin nasa!"
 	done
 
 _ViridianForestEntranceText2::
-	text "RATTATA may be"
-	line "small, but its"
-	cont "bite is wicked!"
-	cont "Did you get one?"
+	text "SOWELILI li ken"
+	line "lili, taso ona li"
+	cont "ken pakala e"
+	cont "sina a!"
 	done

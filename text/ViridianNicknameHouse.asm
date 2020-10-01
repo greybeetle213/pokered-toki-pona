@@ -1,23 +1,24 @@
 _ViridianHouseText1::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "mi pali e nimi"
+	line "ante la pona tawa,"
+	cont "mi."
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "sina wile sona"
+	line "sin e nimi la o"
+	cont "pana e nimi sinpe."
 	done
 
 _ViridianHouseText2::
-	text "My Daddy loves"
-	line "#MON too."
+	text "monsuta poki li"
+	line "pona tawa mama mi"
+	cont "kin!"
 	done
 
 _ViridianHouseText_1d5b1::
-	text "SPEARY: Tetweet!"
+	text "WALASI: mu!"
 	done
 
 _ViridianHouseText4::
-	text "SPEAROW"
-	line "Name: SPEARY"
+	text "WALASO"
+	line "nimi: WALASI"
 	done

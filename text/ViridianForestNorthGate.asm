@@ -1,19 +1,21 @@
 _ViridianForestExitText1::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "monsuta poki mute"
+	line "li lon ma kasi"
+	cont "lon lupa ma taso."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "sina lukin lon"
+	line "ma ale la sina"
+	cont "ken kama jo e"
+	cont "monsuta ante."
 	done
 
 _ViridianForestExitText2::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "sina lukin ala"
+	line "lukin e kili lon"
+	cont "poka pi nasin?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "ona ken weka e"
+	line "ona kepeken tawa"
+	cont "utala pi lukin"
+	cont "pi sinpe ike."
 	done

@@ -156,10 +156,10 @@ _GymStatueText2::
 	done
 
 _ViridianCityPokecenterGuyText::
-	text "#MON CENTERs"
-	line "heal your tired,"
-	cont "hurt or fainted"
-	cont "#MON!"
+	text "tomo pi pana wawa"
+	line "li pana wawa e"
+	cont "monsuta poki"
+	cont "sina!"
 	done
 
 _PewterCityPokecenterGuyText::
@@ -493,69 +493,75 @@ _TurnPageText::
 	done
 
 _ViridianSchoolNotebookText5::
-	text "GIRL: Hey! Don't"
-	line "look at my notes!@"
+	text "JAN: a! o lukin"
+	line "ala e lipu mi!@"
 	text_end
 
 _ViridianSchoolNotebookText1::
-	text "Looked at the"
-	line "notebook!"
+	text "sina lukin e"
+	line "lipu!"
 
-	para "First page..."
+	para "lipu nanpa wan..."
 
-	para "# BALLs are"
-	line "used to catch"
-	cont "#MON."
+	para "jan ken kama jo"
+	line "e monsuta poki"
+	cont "kepeken sike"
+	cont "poki."
 
-	para "Up to 6 #MON"
-	line "can be carried."
+	para "jan ken jo e"
+	line "monsuta poki luka"
+	cont "wan taso."
 
-	para "People who raise"
-	line "and make #MON"
-	cont "fight are called"
-	cont "#MON trainers."
+	para "jan suli e"
+	line "monsuta poki. ona"
+	cont "li jo e nimi pi jan"
+	cont "lawa."
 	prompt
 
 _ViridianSchoolNotebookText2::
-	text "Second page..."
+	text "lipu nanpa tu..."
 
-	para "A healthy #MON"
-	line "may be hard to"
-	cont "catch, so weaken"
-	cont "it first!"
+	para "monsuta poki li"
+	line "jo e sijelo pona"
+	cont "la jan ken kama"
+	cont "jo ike li ona. o"
+	cont "pakala e ona lon"
+	cont "tenpo wan!"
 
-	para "Poison, burns and"
-	line "other damage are"
-	cont "effective!"
+	para "jaki en seli en"
+	line "pakala ante li"
+	cont "pona!"
 	prompt
 
 _ViridianSchoolNotebookText3::
-	text "Third page..."
+	text "lipu nanpa tu"
+	line "wan..."
 
-	para "#MON trainers"
-	line "seek others to"
-	cont "engage in #MON"
-	cont "fights."
+	para "jan lawa lukin"
+	line "utala e jan ante."
 
-	para "Battles are"
-	line "constantly fought"
-	cont "at #MON GYMs."
+	para "tenpo ale la"
+	line "utala li lon tomo"
+	cont "wawa."
 	prompt
 
 _ViridianSchoolNotebookText4::
-	text "Fourth page..."
+	text "lipu nanpa"
+	line "tu tu..."
 
-	para "The goal for"
-	line "#MON trainers"
-	cont "is to beat the "
-	cont "top 8 #MON"
-	cont "GYM LEADERs."
+	para "jan lawa pi"
+	line "monsuta poki wile"
+	cont "utala e jan lawa"
+	cont "pi tomo wawa"
+	cont "luka tu wan."
 
-	para "Do so to earn the"
-	line "right to face..."
+	para "jan ken pali e"
+	line "ona la ona ken"
+	cont "utala e..."
 
-	para "The ELITE FOUR of"
-	line "#MON LEAGUE!"
+	para "jan lawa suli tu"
+	line "tu pi kulupu pi"
+	cont "monsuta poki!"
 	prompt
 
 _EnemiesOnEverySideText::
@@ -640,78 +646,89 @@ _LinkCableInfoText3::
 	prompt
 
 _ViridianSchoolBlackboardText1::
-	text "The blackboard"
-	line "describes #MON"
-	cont "STATUS changes"
-	cont "during battles."
+	text "lon pi monsuta"
+	line "poki li ante lon"
+	cont "tenpo utala. leko"
+	cont "pimeja li toki e"
+	cont "ona."
 	prompt
 
 _ViridianSchoolBlackboardText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "sina wile sona e"
+	line "lipu seme?"
 	done
 
 _ViridianBlackboardSleepText::
-	text "A #MON can't"
-	line "attack if it's"
-	cont "asleep!"
+	text "lape la monsuta"
+	line "poki li ken ala"
+	cont "pakala!"
 
-	para "#MON will stay"
-	line "asleep even after"
-	cont "battles."
+	para "monsuta poki li"
+	line "awen lape lon"
+	cont "tenpo pi pini"
+	cont "pini."
 
-	para "Use AWAKENING to"
-	line "wake them up!"
+	para "jan li kepeken e"
+	line "ILO LAPE la"
+	cont "monsuta poki li"
+	cont "pini lape!"
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "When poisoned, a"
-	line "#MON's health"
-	cont "steadily drops."
+	text "jaki la nanpa"
+	line "pona pi monsuta"
+	cont "poki li anpa li"
+	cont "anpa."
 
-	para "Poison lingers"
-	line "after battles."
+	para "jaki li awen lon"
+	line "tenpo pi pini"
+	cont "utala."
 
-	para "Use an ANTIDOTE"
-	line "to cure poison!"
+	para "o weka e jaki"
+	line "kepeken KO SIN!"
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "Paralysis could"
-	line "make #MON"
-	cont "moves misfire!"
+	text "tawa ala la"
+	line "tawa utala pi"
+	cont "monsuta poki li"
+	cont "pali ala!"
 
-	para "Paralysis remains"
-	line "after battles."
+	para "tawa ala li awen"
+	line "lon tenpo pi pini"
+	cont "utala."
 
-	para "Use PARLYZ HEAL"
-	line "for treatment!"
+	para "o kepeken TAWA"
+	line "ALA SIN tawa"
+	cont "weka!"
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "A burn reduces"
-	line "power and speed."
-	cont "It also causes"
-	cont "ongoing damage."
+	text "seli li anpa e"
+	line "wawa ona li"
+	cont "pakala li pakala"
+	cont "kin."
 
-	para "Burns remain"
-	line "after battles."
+	para "seli li awen lon"
+	line "tenpo pi pini"
+	cont "utala."
 
-	para "Use BURN HEAL to"
-	line "cure a burn!"
+	para "o kepeken SELI"
+	line "SIN tawa weka!"
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "If frozen, a"
-	line "#MON becomes"
-	cont "totally immobile!"
+	text "lete la monsuta"
+	line "poki li ken tawa"
+	cont "ala!"
 
-	para "It stays frozen"
-	line "even after the"
-	cont "battle ends."
+	para "lete li awen lon"
+	line "tenpo pi pini"
+	cont "utala."
 
-	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	para "kepeken SIN LETE"
+	line "jan li ken weka e"
+	cont "lon pi lete."
 	prompt
 
 _VermilionGymTrashText::
@@ -817,12 +834,12 @@ _ElevatorText::
 	done
 
 _TownMapText::
-	text "A TOWN MAP.@"
+	text "LIPU MA.@"
 	text_end
 
 _PokemonStuffText::
-	text "Wow! Tons of"
-	line "#MON stuff!"
+	text "a! ijo pi monsuta"
+	line "poki mute!"
 	done
 
 _OutOfSafariBallsText::

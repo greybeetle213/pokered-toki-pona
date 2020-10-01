@@ -1,13 +1,12 @@
 _SchoolText1::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "a! mi lukin kama"
+	line "sona e lipu ale"
+	cont "mi."
 	done
 
 _SchoolText2::
-	text "Okay!"
+	text "oke!"
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "o pona lukin e"
+	line "leko pimeja!"
 	done

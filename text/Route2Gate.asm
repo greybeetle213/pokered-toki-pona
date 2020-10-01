@@ -1,12 +1,12 @@
 _Route2GateText_5d616::
-	text "The HM FLASH"
-	line "lights even the"
-	cont "darkest dungeons."
+	text "IL pi SUNO LILI"
+	line "li suno e ma"
+	cont "pimeja mute!"
 	done
 
 _Route2GateText2::
-	text "Once a #MON"
-	line "learns FLASH, you"
-	cont "can get through"
-	cont "ROCK TUNNEL."
+	text "monsuta poki li"
+	line "kama sona e SUNO"
+	cont "LILI li ken tawa"
+	cont "e LUPA KIWEN."
 	done

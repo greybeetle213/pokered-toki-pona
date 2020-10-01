@@ -185,14 +185,14 @@ ViridianSchoolBlackboardText2:
 	text_end
 
 StatusAilmentText1:
-	db   " SLP"
-	next " PSN"
-	next " PAR@"
+	db   " LAPE"
+	next " JAKI"
+	next " ALA@"
 
 StatusAilmentText2:
-	db   " BRN"
-	next " FRZ"
-	next " QUIT@"
+	db   " SELI"
+	next " LETE"
+	next " PINI@"
 
 	db "@" ; unused
 

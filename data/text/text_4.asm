@@ -1,6 +1,7 @@
 _PokemartGreetingText::
-	text "Hi there!"
-	next "May I help you?"
+	text "toki!"
+	line "mi ken ala ken"
+	cont "esun tawa sina?"
 	done
 
 _PokemonFaintedText::
@@ -23,62 +24,63 @@ _RepelWoreOffText::
 	done
 
 _PokemartBuyingGreetingText::
-	text "Take your time."
+	text "mi awen."
 	done
 
 _PokemartTellBuyPriceText::
 	text_ram wcf4b
 	text "?"
-	line "That will be"
+	line "mani li"
 	cont "¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text ". OK?"
+	text ". lon?"
 	done
 
 _PokemartBoughtItemText::
-	text "Here you are!"
-	line "Thank you!"
+	text "ni li tawa sina!"
+	line "pona!"
 	prompt
 
 _PokemartNotEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "sina wile e mani"
+	line "mute."
 	prompt
 
 _PokemartItemBagFullText::
-	text "You can't carry"
-	line "any more items."
+	text "ken jo pi poki li"
+	line "pini."
 	prompt
 
 _PokemonSellingGreetingText::
-	text "What would you"
-	line "like to sell?"
+	text "sina wile esun e"
+	line "seme?"
 	done
 
 _PokemartTellSellPriceText::
-	text "I can pay you"
+	text "mi pana e"
 	line "¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text " for that."
+	text " tawa ni."
 	done
 
 _PokemartItemBagEmptyText::
-	text "You don't have"
-	line "anything to sell."
+	text "ijo esun la sina"
+	line "jo ala."
 	prompt
 
 _PokemartUnsellableItemText::
-	text "I can't put a"
-	line "price on that."
+	text "mi ken kama jo"
+	line "ala e ni."
 	prompt
 
 _PokemartThankYouText::
-	text "Thank you!"
+	text "pona!"
 	done
 
 _PokemartAnythingElseText::
-	text "Is there anything"
-	line "else I can do?"
+	text "mi ken ala ken"
+	line "pali e mute tawa"
+	cont "sina?"
 	done
 
 _LearnedMove1Text::

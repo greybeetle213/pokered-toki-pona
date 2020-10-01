@@ -1,6 +1,7 @@
 _Route2HouseText1::
-	text "A fainted #MON"
-	line "can't fight. But, "
-	cont "it can still use "
-	cont "moves like CUT!"
+	text "monsuta poki pi"
+	line "NP ala li ken"
+	cont "utala ala taso li"
+	cont "ken kepeken e"
+	cont "tawa sama KIPISI!"
 	done

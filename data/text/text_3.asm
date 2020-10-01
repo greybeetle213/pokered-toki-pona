@@ -4,19 +4,18 @@ _FileDataDestroyedText::
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "sina wile awen e"
+	line "musi anu seme?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "<PLAYER> li awen"
+	line "e musi!"
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "lipu ante li"
+	line "weka. lon?"
 	done
 
 _WhenYouChangeBoxText::

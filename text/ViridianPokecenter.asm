@@ -1,16 +1,16 @@
 _ViridianPokeCenterText2::
-	text "You can use that"
-	line "PC in the corner."
+	text "sina ken kepeken"
+	line "e ilo nanpa ni."
 
-	para "The receptionist"
-	line "told me. So kind!"
+	para "jan pi kama pona"
+	line "li toki tawa mi a!"
 	done
 
 _ViridianPokeCenterText3::
-	text "There's a #MON"
-	line "CENTER in every"
-	cont "town ahead."
+	text "ma tomo ale la"
+	line "tomo pi pana wawa"
+	cont "li lon."
 
-	para "They don't charge"
-	line "any money either!"
+	para "kin la ona wile"
+	line "ala e mani!"
 	done

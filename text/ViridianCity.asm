@@ -12,7 +12,8 @@ _ViridianCityText1::
 _ViridianCityText_19122::
 	text "tomo wawa ni pi"
 	line "monsuta poki li"
-	cont "lon tenpo ale."
+	cont "pini lon tenpo"
+	cont "ale."
 
 	para "mi wile sona e"
 	line "ni: jan lawa li"
@@ -108,24 +109,23 @@ _ViridianCityText_1920a::
 	para "lon, sina ken"
 	line "tawa!"
 
-	para "sina wile ale"
-	line "wile tawa pi noka"
-	cont "wawa?"
+	para "sina wile ala"
+	line "wile weka?"
 	done
 
 _ViridianCityText_1920f::
 	text "sina kepeken e"
 	line "ilo monsuta la mi"
-	line "lukin."
+	cont "lukin."
 
 	para "sina kama jo e"
 	line "monsuta poki la"
 	cont "sona pi ilo"
-	cont "monsuta li lipu."
+	cont "monsuta li lipu"
 	cont "sin."
 
 	para "seme? sina sona"
-	line "ala sona e kama"
+	line "ala sona kama"
 	cont "jo e monsuta"
 	cont "poki?"
 
@@ -134,13 +134,13 @@ _ViridianCityText_1920f::
 	done
 
 _ViridianCityText_19214::
-	text "tenpi li ale..."
+	text "tenpo li ale..."
 	line "o tawa a."
 	done
 
 _ViridianCityText_19219::
-	text "Nanpa wan, sina"
-	line "wile wawa ike e"
+	text "nanpa wan, sina"
+	line "wile pakala e"
 	cont "monsuta poki"
 	cont "ante."
 	done
@@ -156,12 +156,12 @@ _ViridianCityText9::
 	line "lawa"
 
 	para "o kama jo e"
-	line "monsuta poki"
+	line "monsuta poki."
 	cont "o suli e kulupu"
 	cont "sina!"
 
 	para "monsuta poki mute"
-	line "la utala li pona!"
+	line "la utala li pona"
 	cont "mute!"
 	done
 

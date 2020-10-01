@@ -1,123 +1,130 @@
 _ViridianForestText1::
-	text "I came here with"
-	line "some friends!"
+	text "mi kama tawa ma"
+	line "ni lon poka pi"
+	cont "jan pona!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "ona li wile e"
+	line "utala pi monsuta"
+	cont "poki!"
 	done
 
 _ViridianForestBattleText1::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "o! sina jo e"
+	line "monsuta poki!"
+	cont "o utala e mi!"
 	done
 
 _ViridianForestEndBattleText1::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "ala!"
+	line "KATAPIPI li"
+	cont "pona ala!"
 	prompt
 
 _ViridianFrstAfterBattleText1::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "mu! sina monsuta"
+	line "weka e pipi a!"
 	done
 
 _ViridianForestBattleText2::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "o! sina jan lawa "
+	line "la sina ken ala"
+	cont "musi!"
 	done
 
 _ViridianForestEndBattleText2::
-	text "Huh?"
-	line "I ran out of"
-	cont "#MON!"
+	text "seme?"
+	line "mute pi monsuta"
+	cont "poki li pini."
 	prompt
 
 _ViridianFrstAfterBattleText2::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "pakala! mi kama"
+	line "jo e monsuta poki"
+	cont "pi wawa mute!"
 	done
 
 _ViridianForestBattleText3::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "o, o awen!"
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "mi"
+	line "pini! sina pona a!"
 	prompt
 
 _ViridianFrstAfterBattleText3::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "tenpo la sina ken"
+	line "lukin e ijo lon"
+	cont "ma!"
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "mi lukin e ijo"
+	line "tan ni: mi weka e"
+	cont "ijo mi!"
 	done
 
 _ViridianForestText8::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "mute pi sike poki"
+	line "li pini!"
 
-	para "You should carry"
-	line "extras!"
+	para "sina o jo e mute!"
 	done
 
 _ViridianForestText9::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "sina wile weka e"
+	line "utala la, o weka"
+	cont "e ma kasi!"
 	done
 
 _ViridianForestText10::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	text "jaki la o kepeken"
+	line "e KO PANA! o kama"
+	cont "jo e ona lon esun"
+	cont "monsuta poki!"
 	done
 
 _ViridianForestText11::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
+	para "jan toki tawa jan"
+	line "OKU kepeken ilo"
+	cont "nanpa la ilo"
+	cont "monsuta jan li"
+	cont "ken lipu."
 	done
 
 _ViridianForestText12::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "jan ken kama jo"
+	line "ala e monsuta"
+	cont "poki pi jan lawa"
+	cont "ante! o kama jo e"
+	cont "monsuta poki ike"
+	cont "taso!"
 	done
 
 _ViridianForestText13::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "jan wile kama jo"
+	line "e monsuta poki la"
+	cont "jan wile pakala"
+	cont "e ona!"
 
-	para "When healthy,"
-	line "they may escape!"
+	para "monsuta poki pi"
+	line "sijelo pona li"
+	cont "ken weka!"
 	done
 
 _ViridianForestText14::
-	text "LEAVING"
-	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	text "weka e"
+	line "ma kasi PETA"
+	cont "tawa ma tomo"
+	cont "KIWEN"
 	done

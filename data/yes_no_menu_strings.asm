@@ -16,12 +16,12 @@ TwoOptionMenuStrings:
 	two_option_menu 4, 3, FALSE, .NoYesMenu
 
 .NoYesMenu:
-	db   "ala"
-	next "lon@"
+	db   "ALA"
+	next "LON@"
 
 .YesNoMenu:
-	db   "lon"
-	next "ala@"
+	db   "LON"
+	next "ALA@"
 
 .NorthWestMenu:
 	db   "NORTH"
@@ -36,9 +36,9 @@ TwoOptionMenuStrings:
 	next "EAST@"
 
 .TradeCancelMenu:
-	db   "TRADE"
-	next "CANCEL@"
+	db   "PANA"
+	next "PINI@"
 
 .HealCancelMenu:
-	db   "HEAL"
-	next "CANCEL@"
+	db   "SIN"
+	next "PINI@"
