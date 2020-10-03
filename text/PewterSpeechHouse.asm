@@ -1,19 +1,17 @@
 _PewterHouse2Text1::
-	text "#MON learn new"
-	line "techniques as"
-	cont "they grow!"
+	text "monsuta poki li"
+	line "sona la ona li"
+	cont "suli!"
 
-	para "But, some moves"
-	line "must be taught by"
-	cont "the trainer!"
+	para "taso ona li kama"
+	line "sona e tawa utala"
+	cont "mute tan jan"
+	cont "lawa!"
 	done
 
 _PewterHouse2Text2::
-	text "#MON become"
-	line "easier to catch"
-	cont "when they are"
-	cont "hurt or asleep!"
-
-	para "But, it's not a"
-	line "sure thing!"
+	text "monsuta poki li"
+	line "pakala li lape la "
+	cont "sina ken kama jo"
+	cont "pona e ona!"
 	done

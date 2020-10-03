@@ -1,14 +1,15 @@
 _PewterPokecenterText2::
-	text "What!?"
+	text "seme!?"
 
-	para "TEAM ROCKET is"
-	line "at MT.MOON? Huh?"
-	cont "I'm on the phone!"
+	para "KULUPU LAKE li"
+	line "lon nena MUN anu"
+	cont "seme? mi lon ilo"
+	cont "toki!"
 
-	para "Scram!"
+	para "o weka!"
 	done
 
 _PewterJigglypuffText::
-	text "JIGGLYPUFF: Puu"
-	line "pupuu!"
+	text "KOLAMA: muu"
+	line "mumuu!"
 	done

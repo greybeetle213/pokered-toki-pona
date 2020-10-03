@@ -201,7 +201,7 @@ _NoEffectText::
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "taso li pali ala!"
 	prompt
 
 _DidntAffectText::

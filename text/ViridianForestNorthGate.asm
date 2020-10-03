@@ -11,11 +11,11 @@ _ViridianForestExitText1::
 
 _ViridianForestExitText2::
 	text "sina lukin ala"
-	line "lukin e kili lon"
-	cont "poka pi nasin?"
+	line "lukin e kasi suli"
+	cont "lon poka pi"
+	cont "nasin?"
 
-	para "ona ken weka e"
+	para "jan ken weka e"
 	line "ona kepeken tawa"
-	cont "utala pi lukin"
-	cont "pi sinpe ike."
+	cont "utala wan."
 	done

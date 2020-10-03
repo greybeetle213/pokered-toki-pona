@@ -43,7 +43,7 @@ ItemNames::
 	db "KIWEN LON TU@"
 	db "ILO OPEN LEN@"
 	db "?????@"
-	db "KEN PI SIKE TU@"
+	db "KEN SIKE TU@"
 	db "X AKULASI@"
 	db "KIWEN KASI@"
 	db "ILO OPEN LEKO@"

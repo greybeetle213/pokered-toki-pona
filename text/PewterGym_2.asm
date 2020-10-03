@@ -1,146 +1,148 @@
 _PewterGymText_5c4a3::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "jan lawa ante"
+	line "mute li lon ma"
+	cont "ni!"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "mi pilin la sina"
+	line "jan lawa pona"
+	cont "mute!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "sina pilin wawa la"
+	line "o tawa ma tomo"
+	cont "LASO!"
 	done
 
 _TM34PreReceiveText::
-	text "Wait! Take this"
-	line "with you!"
+	text "o awen! o kama jo"
+	line "e ni!"
 	done
 
 _ReceivedTM34Text::
-	text "<PLAYER> received"
-	line "TM34!@"
+	text "<PLAYER> kama jo"
+	line "e TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "IS li jo e sona."
+	line "monsuta poki li"
+	cont "ken kama sona e"
+	cont "sona ni!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "jan li ken"
+	line "kepeken e ona lon"
+	cont "tenpo wan! tan"
+	cont "ni: o anu awen e"
+	cont "monsuta poki!"
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "IS34 li jo e"
+	line "AWEN UTALA!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "monsuta sina li"
+	line "pakala la monsuta"
+	cont "ante li pakala"
+	cont "tu."
 	done
-
+	
 _TM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "ken jo pi poki"
+	line "sina li pini!"
 	done
 
 _PewterGymText_5c4bc::
-	text "I took"
-	line "you for granted."
+	text "mi pilin la sina"
+	line "wawa ike. taso"
+	cont "sin wawa."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "sina pini utala e"
+	line "mi la mi pana e"
+	cont "KEN KIWEN tawa"
+	cont "sina!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "<PLAYER> li kama"
+	line "jo e KEN KIWEN!@"
 	text_end
 
 _PewterGymText_5c4c1::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "ni li KEN lon pi"
+	line "kulupu suli pi"
+	cont "monsuta poki!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "jan li jo e ona"
+	line "la monsuta poki"
+	cont "kama wawa mute!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "sina ken kepeken"
+	line "ILO SONA SUNO"
+	cont "LILI!"
 	prompt
 
 _PewterGymBattleText1::
-	text "Stop right there,"
-	line "kid!"
+	text "jan lili o,"
+	line "o pini tawa!"
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "sina wile utala e"
+	line "jan POLA la, sina"
+	cont "wile utala e mi!"
 	done
 
 _PewterGymEndBattleText1::
-	text "Darn!"
+	text "pakala!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "mi pini!"
 	prompt
 
 _PewterGymAfterBattleText1::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "sina pona, taso"
+	line "jan POLA li pona"
+	cont "mute!"
 	done
 
 _PewterGymText_5c515::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "toki! ken la sina"
+	line "wawa li ken kama"
+	cont "jan suli mute pi"
+	cont "monsuta poki!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "mi jan lawa ala"
+	line "taso mi ken toki"
+	cont "tawa sina e ni:"
+	cont "tenpo kama la"
+	cont "sina wawa!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "o ken tawa mi e"
+	line "ni: mi jo e sina"
+	cont "tawa ma sewi!"
 	done
 
 _PewterGymText_5c51a::
-	text "All right! Let's"
-	line "get happening!"
+	text "oke! mi mute o"
+	line "open!"
 	prompt
 
 _PewterGymText_5c51f::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "monsuta poki"
+	line "nanpa wan lon"
+	cont "linja nanpa li"
+	cont "utala lon nanpa"
+	cont "wan!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "sina ante e nanpa"
+	line "pi linja la"
+	cont "utala li kama"
+	cont "pona!"
 	done
 
 _PewterGymText_5c524::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "ona li mani ala!"
+	line "mi o open!"
 	prompt
 
 _PewterGymText_5c529::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "mi lon!"
+	line "sina ken kama jan"
+	cont "lawa suli!"
 	done

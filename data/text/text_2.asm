@@ -433,8 +433,8 @@ _OakLabEmailText::
 	cont "wawa sina!"
 
 	para "tomo lawa pi"
-	line "kulupu pi monsuta"
-	cont "poki."
+	line "kulupu suli pi"
+	cont "monsuta poki."
 	cont "ma supa LASO LOJE"
 
 	para "kin ni: jan OKU,"
@@ -769,8 +769,8 @@ _VermilionGymTrashFailText::
 	text_end
 
 _FoundHiddenItemText::
-	text "<PLAYER> found"
-	line "@"
+	text "<PLAYER> li lukin"
+	line "e @"
 	text_ram wcd6d
 	text "!@"
 	text_end
@@ -782,15 +782,15 @@ _HiddenItemBagFullText::
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> found"
-	line "@"
+	text "<PLAYER> li lukin"
+	line "e @"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " coins!@"
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> found"
-	line "@"
+	text "<PLAYER> li lukin"
+	line "e @"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " coins!@"
 	text_end
@@ -1278,8 +1278,8 @@ _EnemyAppearedText::
 
 _TrainerWantsToFightText::
 	text_ram wTrainerName
-	text " li wile"
-	line "utala!"
+	text " li"
+	line "wile utala!"	   
 	prompt
 
 _UnveiledGhostText::

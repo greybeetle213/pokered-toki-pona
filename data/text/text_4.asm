@@ -159,45 +159,47 @@ _HMCantDeleteText::
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "Welcome to our"
-	line "#MON CENTER!"
+	text "kama pona tawa"
+	line "tomo sin mi!"
 
-	para "We heal your"
-	line "#MON back to"
-	cont "perfect health!"
+	para "mi sin e monsuta"
+	line "poki sina tawa"
+	cont "sijelo pona!"
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "Shall we heal your"
-	line "#MON?"
+	text "mi o sin monsuta"
+	line "poki sina?"
 	done
 
 _NeedYourPokemonText::
-	text "OK. We'll need"
-	line "your #MON."
+	text "oke. mi wile e"
+	line "monsuta poki"
+	cont "sina."
 	done
 
 _PokemonFightingFitText::
-	text "Thank you!"
-	line "Your #MON are"
-	cont "fighting fit!"
+	text "pona!"
+	line "ni la monsuta"
+	cont "poki sina li"
+	cont "wawa!"
 	prompt
 
 _PokemonCenterFarewellText::
-	text "We hope to see"
-	line "you again!"
+	text "o lukin sin e mi!"
 	done
 
 _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
-	text "This area is"
-	line "reserved for 2"
-	cont "friends who are"
-	cont "linked by cable."
+	text "sina kepeken e"
+	line "linja lon poka pi"
+	cont "jan la sina tu"
+	cont "ken ante e"
+	cont "monsuta poki."
 	done
 
 _CableClubNPCWelcomeText::
-	text "Welcome to the"
-	line "Cable Club!"
+	text "kama pona tawa"
+	line "kulupu ante!"
 	done
 
 _CableClubNPCPleaseApplyHereHaveToSaveText::

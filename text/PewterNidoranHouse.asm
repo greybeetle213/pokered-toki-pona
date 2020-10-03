@@ -1,25 +1,21 @@
 _PewterHouse1Text1::
-	text "NIDORAN: Bowbow!@"
+	text "SOLILI: mumu!@"
 	text_end
 
 _PewterHouse1Text2::
-	text "NIDORAN sit!"
+	text "SOLILIo, o anpa!"
 	done
 
 _PewterHouse1Text3::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "monsuta poki mi"
+	line "kama tan jan lawa"
+	cont "ante. ona li wile"
+	cont "ala kute."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "ona li suli wawa"
+	line "taso ona ken kute"
+	cont "ala e jan lawa pi"
+	cont "wawa lili!"
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
-
-	para "If only we had"
-	line "some BADGEs..."
+	para "mi wile e KEN..."
 	done

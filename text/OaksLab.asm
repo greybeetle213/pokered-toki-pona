@@ -197,7 +197,7 @@ _OaksLabRivalWaitingText::
 
 _OaksLabChooseMonText::
 	text "OKU: <RIVAL> o?"
-	line "mi wile isipin..."
+	line "mu..."
 
 	para "a, lon, mi"
 	line "toki tawa sina e"

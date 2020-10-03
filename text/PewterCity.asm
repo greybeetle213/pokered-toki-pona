@@ -1,117 +1,116 @@
 _PewterCityText1::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "jan li toki e ni:"
+	line "ken la MUNA kama"
+	cont "tan mun!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "KIWEN MUN li anpa"
+	line "tawa nena MUN la"
+	cont "ona li lon."
 	done
 
 _PewterCityText2::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "jan lawa pona"
+	line "mute ala li lon"
+	cont "ma ni!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "ona ale li jan"
+	line "pi kama jo pipi"
+	cont "taso jan lawa"
+	cont "POLA li pona a!"
 	done
 
 _PewterCityText_193f1::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "sina lukin e tomo"
+	line "sona anu seme?"
 	done
 
 _PewterCityText_193f6::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "kiwen lon ni kama"
+	line "tan nene MUN."
+	cont "ona li pona anu"
+	cont "seme?!"
 	done
 
 _PewterCityText_193fb::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "lon?"
+	line "sina wile tawa!"
 	done
 
 _PewterCityText13::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "ona li lon ma ni!"
+	line "sina wile tawa"
+	cont "insa la ona li"
+	cont "mani taso ona"
+	cont "li pona a! tawa"
+	cont "pona!"
 	done
 
 _PewterCityText_19427::
-	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	text "a! mi pali e ijo."
+	line "sina sona ala sona"
+	cont "e ona?"
 	done
 
 _PewterCityText_1942c::
-	text "That's right!"
-	line "It's hard work!"
+	text "lon a!"
+	line "ona li pali pona"
+	cont "ala!"
 	done
 
 _PewterCityText_19431::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "mi WEKA e kasi"
+	line "tan ni: mi wile"
+	cont "ala e monsuta"
+	cont "poki lon ma ni!"
 	done
 
 _PewterCityText_1945d::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "sina jan lawa anu"
+	line "seme? jan POLA li"
+	cont "lukin e jan utala"
+	cont "sin! o poka e mi!"
 	done
 
 _PewterCityText14::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "sina pilin la"
+	line "sina pona la o"
+	cont "utala e jan POLE!"
 	done
 
 _PewterCityText6::
-	text "TRAINER TIPS"
+	text "sona tawa jan"
+	line "lawa"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "monsuta poki li"
+	line "lon utala la,"
+	cont "ona li kama jo e"
+	cont "NANPA SULI!"
 	done
 
 _PewterCityText7::
-	text "NOTICE!"
+	text "KUTE!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "jan li kama jo"
+	line "ike e kiwen lon"
+	cont "tan nena MUN."
+	cont "sina sona e ijo"
+	cont "o pona toki e ona"
+	cont "tawa jan awen"
+	cont "pona!"
 	done
 
 _PewterCityText10::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "tomo sona pi ma"
+	line "tomo KIWEN"
 	done
 
 _PewterCityText11::
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
-
-	para "The Rock Solid"
-	line "#MON Trainer!"
-	done
+	text "tomo wawa pi ma"
+	line "tomo KIWEN"
+	cont "jan lawa: POLA"
 
 _PewterCityText12::
-	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	text "ma tomo KIWEN"
+	line "ma tomo pi kule"
+	cont "kiwen"
 	done

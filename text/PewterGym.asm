@@ -1,18 +1,18 @@
 _PewterGymText_5c49e::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "mi POLA!"
+	line "mi jan tawa pi"
+	cont "tomo wawa pi ma"
+	cont "tomo KIWEN."
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "selo wawa li pona"
+	line "mute tawa mi!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "ni la monsuta"
+	line "poki mi li ante"
+	cont "KIWEN!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "sina wile ala"
+	line "wile utala e mi?"
+	cont "oke! o lukin e"
+	cont "wawa sina!"
 	done
