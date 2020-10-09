@@ -1,7 +1,7 @@
 _AIBattleWithdrawText::
 	text_ram wTrainerName
-	text " with-"
-	line "drew @"
+	text " kama"
+	line "jo e @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
@@ -9,32 +9,32 @@ _AIBattleWithdrawText::
 _AIBattleUseItemText::
 	text_ram wTrainerName
 	text_start
-	line "used @"
+	line "kepeken @"
 	text_ram wcd6d
 	text_start
-	cont "on @"
+	cont "lon @"
 	text_ram wEnemyMonNick
 	text "!"
 	prompt
 
 _TradeWentToText::
 	text_ram wcf4b
-	text " went"
-	line "to @"
+	text " tawa"
+	line "@"
 	text_ram wLinkEnemyTrainerName
 	text "."
 	done
 
 _TradeForText::
-	text "For <PLAYER>'s"
+	text "jo e @"								; might crash if I did this wrong...
 	line "@"
 	text_ram wcf4b
-	text ","
+	text "<PLAYER>,"
 	done
 
 _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
-	text " sends"
+	text " li pana e"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -42,36 +42,36 @@ _TradeSendsText::
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " waves"
-	line "farewell as"
+	text " toki"
+	line "e ni: tawa pona!"
 	done
 
 _TradeTransferredText::
 	text_ram wcd6d
-	text " is"
-	line "transferred."
+	text " li"
+	line "pana."
 	done
 
 _TradeTakeCareText::
-	text "Take good care of"
+	text "o pona e"
 	line "@"
 	text_ram wcd6d
-	text "."
+	text "!"
 	done
 
 _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " will"
-	line "trade @"
+	text " kama pana"
+	line "e @"
 	text_ram wcd6d
 	text_start
 	done
 
 _TradeforText::
-	text "for <PLAYER>'s"
+	text "li kama jo e"					; might crash if I did this wrong...
 	line "@"
 	text_ram wcf4b
-	text "."
+	text "<PLAYER>."
 	done
 
 _PlaySlotMachineText::
@@ -174,11 +174,14 @@ _PewterCityPokecenterGuyText::
 	done
 
 _CeruleanPokecenterGuyText::
-	text "BILL has lots of"
-	line "#MON!"
+	text "jan PILO li jo e"
+	line "monsuta poki"
+	cont "mute!"
 
-	para "He collects rare"
-	line "ones too!"
+	para "monsuta pi kama"
+	line "jo ike la jan"
+	cont "PILO li jo e"
+	cont "mute."
 	done
 
 _LavenderPokecenterGuyText::
@@ -190,10 +193,10 @@ _LavenderPokecenterGuyText::
 	done
 
 _MtMoonPokecenterBenchGuyText::
-	text "If you have too"
-	line "many #MON, you"
-	cont "should store them"
-	cont "via PC!"
+	text "ken jo pi poki"
+	line "sina li pini la"
+	cont "sina o pana e ona"
+	cont "tawa ilo nanpa!"
 	done
 
 _RockTunnelPokecenterGuyText::
@@ -879,17 +882,17 @@ _HurtByLeechSeedText::
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "@"
 	text_ram wEnemyMonNick
 	text_start
-	line "fainted!"
+	line "li pini!"
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> li jo e"
+	line "¥@"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text_start
-	line "for winning!"
+	text "!"
 	prompt
 
 _TrainerDefeatedText::
@@ -931,20 +934,21 @@ _LinkBattleLostText::
 
 _TrainerAboutToUseText::
 	text_ram wTrainerName
-	text " is"
-	line "about to use"
+	text " li"
+	line "kama kepeken e"
 	cont"@"
 	text_ram wEnemyMonNick
 	text "!"
 
-	para "Will <PLAYER>"
-	line "change #MON?"
+	para "<PLAYER> li kama"
+	line "pana e monsuta"
+	cont "poki anu seme?"
 	done
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " weka"
-	line "e @"
+	text " li"
+	line "weka e @"
 	text_ram wEnemyMonNick
 	text "!"
 	done
@@ -1015,12 +1019,12 @@ _GetOutText::
 
 _FastAsleepText::
 	text "<USER>"
-	line "is fast asleep!"
+	line "li lape wawa!"
 	prompt
 
 _WokeUpText::
 	text "<USER>"
-	line "woke up!"
+	line "li pini lape!"
 	prompt
 
 _IsFrozenText::
@@ -1163,7 +1167,7 @@ _DoesntAffectMonText::
 	prompt
 
 _CriticalHitText::
-	text "Critical hit!"
+	text "pakala wawa mute!"
 	prompt
 
 _OHKOText::
@@ -1229,29 +1233,30 @@ _HitXTimesText::
 
 _GainedText::
 	text_ram wcd6d
-	text " gained"
+	text " li kama"
 	line "@"
 	text_end
 
 _WithExpAllText::
-	text "with EXP.ALL,"
+	text "kepeken NS ALE,"
 	cont "@"
 	text_end
 
 _BoostedText::
-	text "a boosted"
+	text "..."
 	cont "@"
 	text_end
 
 _ExpPointsText::
+	text "e @"
 	text_decimal wExpAmountGained, 2, 4
-	text " EXP. Points!"
+	text " NS!"
 	prompt
 
 _GrewLevelText::
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " li suli"
+	line "tawa suli @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
@@ -1321,30 +1326,30 @@ _PlayerMon2Text::
 	text_end
 
 _EnoughText::
-	text "enough!@"
+	text "li pini!@"
 	text_end
 
 _OKExclamationText::
-	text "OK!@"
+	text "oke!@"
 	text_end
 
 _GoodText::
-	text "good!@"
+	text "pona!@"
 	text_end
 
 _ComeBackText::
 	text_start
-	line "Come back!"
+	line "o kama!"
 	done
 
 _SuperEffectiveText::
-	text "It's super"
-	line "effective!"
+	text "ona li kepeken"
+	line "pona!"
 	prompt
 
 _NotVeryEffectiveText::
-	text "It's not very"
-	line "effective..."
+	text "ona li kepeken"
+	line "ike..."
 	prompt
 
 _SafariZoneEatingText::
@@ -1380,7 +1385,8 @@ _WhichFloorText::
 	done
 
 _PartyMenuNormalText::
-	text "Choose a #MON."
+	text "o anu e"
+	line "monsuta poki."
 	done
 
 _PartyMenuItemUseText::
@@ -1406,7 +1412,7 @@ _PartyMenuSwapMonText::
 _PotionText::
 	text_ram wcd6d
 	text_start
-	line "recovered by @"
+	line "li sin lon @"
 	text_decimal wHPBarHPDifference, 2, 3
 	text "!"
 	done
@@ -1535,7 +1541,7 @@ _WithdrawHowManyText::
 	done
 
 _WithdrewItemText::
-	text "kama jo e"
+	text "li kama jo e"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -1601,7 +1607,7 @@ _BoxFullText::
 	prompt
 
 _MonIsTakenOutText::
-	text "Kama jo e"
+	text "li kama jo e"
 	text_ram wcf4b
 	text "@."
 	prompt

@@ -49,9 +49,9 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
-	cont "@"
+	text "sona sin li kama"
+	line "pana lon ilo sona"
+	cont "lon @"
 	text_ram wEnemyMonNick
 	text "!@"
 	text_end

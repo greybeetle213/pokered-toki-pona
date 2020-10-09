@@ -1,19 +1,22 @@
 _CeruleanMartText2::
-	text "Use REPEL to keep"
-	line "bugs and weak"
-	cont "#MON away."
+	text "o kepeken e ILO"
+	line "WEKA alu sina"
+	cont "wile weka e"
+	cont "monsuta poki e"
+	cont "pipi."
 
-	para "Put your strongest"
-	line "#MON at the"
-	cont "top of the list"
-	cont "for best results!"
+	para "o pana e monsuta"
+	line "poki wawa mute"
+	cont "lon ma nanpa wan!"
 	done
 
 _CeruleanMartText3::
-	text "Have you seen any"
-	line "RARE CANDY?"
+	text "sina lukin ala"
+	line "lukin e SUWI"
+	cont "PONA?"
 
-	para "It's supposed to"
-	line "make #MON go"
-	cont "up one level!"
+	para "ona li suli e"
+	line "monsuta poki wan"
+	cont "lon nanpa suli"
+	cont "wan!"
 	done

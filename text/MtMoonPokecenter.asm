@@ -1,46 +1,45 @@
 _MtMoonPokecenterText1::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "mi jo e sike poki"
+	line "6 lon poki mi."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "sina ken jo e"
+	line "monsuta poki 6"
+	cont "taso."
 	done
 
 _MtMoonPokecenterText3::
-	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	text "kulupu LAKE li"
+	line "pakala e jan pi"
+	cont "ma tomo LASO..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "tenpo ale la"
+	line "kulupu LAKE lon"
+	cont "sona sin!"
 	done
 
 _MagikarpSalesmanText1::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
-
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	text "JAN: toki!"
+	line "mi esun e KALILI"
+	cont "tawa sina tawa"
+	cont "¥500 taso!"
+	cont "sina wile ala"
+	cont "wile?"
 	done
 
 _MagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "ala? mi pali e ni"
+	line "sama pona tawa"
+	cont "sina!"
 	done
 
 _MagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "sina wile e mani"
+	line "mute!"
 	done
 
 _MagikarpSalesmanText2::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "JAN: mi kama jo"
+	line "sin ala e KALILI!"
 	done
 
 _MtMoonPokecenterText5::

@@ -1,35 +1,36 @@
 _Route4Text1::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "a! KIWAN li kama"
+	line "anpa e mi!"
 	done
 
 _Route4BattleText1::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "mi kama li kama"
+	line "jo e monsuta poki"
+	cont "soko mi!"
 	done
 
 _Route4EndBattleText1::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "a! monsuta poki"
+	line "soko suwi mi!"
 	prompt
 
 _Route4AfterBattleText1::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "ken la ma ni li"
+	line "soko ala lon"
+	cont "tenpo ni."
 
-	para "I think I got"
-	line "them all."
+	para "mi kama jo e ala"
+	line "anu seme..."
 	done
 
 _Route4Text5::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "nena MUN"
+	line "tawa insa pi lupa"
+	cont "kiwen"
 	done
 
 _Route4Text6::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "NASIN 4"
+	line "tan nena MUN"
+	cont "tawa ma tomo LASO"
 	done

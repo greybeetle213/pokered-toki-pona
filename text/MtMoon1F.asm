@@ -1,119 +1,121 @@
 _MtMoon1BattleText2::
-	text "WHOA! You shocked"
-	line "me! Oh, you're"
-	cont "just a kid!"
+	text "a! sina monsuta e"
+	line "mi! a, sina jan"
+	cont "lili taso!"
 	done
 
 _MtMoon1EndBattleText2::
-	text "Wow!"
-	line "Shocked again!"
+	text "a!"
+	line "sina pona a!"
 	prompt
 
 _MtMoon1AfterBattleText2::
-	text "Kids like you"
-	line "shouldn't be"
-	cont "here!"
+	text "jan lili sama"
+	line "sina o lon ala"
+	cont "ma ni!"
 	done
 
 _MtMoon1BattleText3::
-	text "Did you come to"
-	line "explore too?"
+	text "sina kama ala"
+	line "kama tawa lukin"
+	cont "kin?"
 	done
 
 _MtMoon1EndBattleText3::
-	text "Losing"
-	line "stinks!"
+	text "anpa li musi"
+	line "ala!"
 	prompt
 
 _MtMoon1AfterBattleText3::
-	text "I came down here"
-	line "to show off to"
-	cont "girls."
+	text "mi kama tan ni:"
+	line "mi wile e olin"
+	cont "tan jan ante."
 	done
 
 _MtMoon1BattleText4::
-	text "Wow! It's way"
-	line "bigger in here"
-	cont "than I thought!"
+	text "a! mi pilin la ma"
+	line "ni li suli mute!"
 	done
 
 _MtMoon1EndBattleText4::
-	text "Oh!"
-	line "I lost it!"
+	text "a!"
+	line "mi anpa!"
 	prompt
 
 _MtMoon1AfterBattleText4::
-	text "How do you get"
-	line "out of here?"
+	text "jan ken weka tan"
+	line "ma ni lon nasin"
+	cont "seme?"
 	done
 
 _MtMoon1BattleText5::
-	text "What! Don't sneak"
-	line "up on me!"
+	text "a! o len ala e"
+	line "kama sina!"
 	done
 
 _MtMoon1EndBattleText5::
-	text "My"
-	line "#MON won't do!"
+	text "monsuta poki mi"
+	line "li wawa lili!"
+	cont "sina wawa!"
 	prompt
 
 _MtMoon1AfterBattleText5::
-	text "I have to find"
-	line "stronger #MON."
+	text "mi wile lukin e"
+	line "monsuta poki wawa"
+	cont "mute."
 	done
 
 _MtMoon1BattleText6::
-	text "What? I'm waiting"
-	line "for my friends to"
-	cont "find me here."
+	text "seme? mi awen e"
+	line "jan pona mi."
 	done
 
 _MtMoon1EndBattleText6::
-	text "I lost?"
+	text "mi anpa anu seme?"
 	prompt
 
 _MtMoon1AfterBattleText6::
-	text "I heard there are"
-	line "some very rare"
-	cont "fossils here."
+	text "mi kute la kiwen"
+	line "lon pi mute lili"
+	cont "li lon ma ni."
 	done
 
 _MtMoon1BattleText7::
-	text "Suspicious men"
-	line "are in the cave."
-	cont "What about you?"
+	text "jan nasa li lon lupa"
+	line "kiwen. sina la?"
 	done
 
 _MtMoon1EndBattleText7::
-	text "You"
-	line "got me!"
+	text "sina anpa e mi!"
 	prompt
 
 _MtMoon1AfterBattleText7::
-	text "I saw them! I'm"
-	line "sure they're from"
-	cont "TEAM ROCKET!"
+	text "mi lukin e ona!"
+	line "ona li kulupu"
+	cont "LAKE la mi sona!"
 	done
 
 _MtMoon1BattleText8::
-	text "Go through this"
-	line "cave to get to"
-	cont "CERULEAN CITY!"
+	text "o tawa e lupa"
+	line "kiwen ni. sina"
+	cont "kama tawa ma tomo"
+	cont "LASO!"
 	done
 
 _MtMoon1EndBattleText8::
-	text "I"
-	line "lost."
+	text "mi"
+	line "anpa."
 	prompt
 
 _MtMoon1AfterBattleText8::
-	text "ZUBAT is tough!"
-	line "But, it can be"
-	cont "useful if you"
-	cont "catch one."
+	text "OPINI li wawa!"
+	line "taso, sina ken"
+	cont "kama jo e ona la"
+	cont "ona li pona mute."
 	done
 
 _MtMoon1Text14::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "o awen! OPINI li"
+	line "moku e telo"
+	cont "sijelo loje!"
 	done

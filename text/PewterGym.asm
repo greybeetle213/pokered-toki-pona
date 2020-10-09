@@ -1,15 +1,15 @@
 _PewterGymText_5c49e::
 	text "mi POLA!"
-	line "mi jan tawa pi"
+	line "mi jan lawa pi"
 	cont "tomo wawa pi ma"
 	cont "tomo KIWEN."
 
-	para "selo wawa li pona"
-	line "mute tawa mi!"
+	para "selo sijelo wawa"
+	line "li pona mute tawa"
+	cont "mi!"
 
 	para "ni la monsuta"
-	line "poki mi li ante"
-	cont "KIWEN!"
+	line "poki mi li KIWEN!"
 
 	para "sina wile ala"
 	line "wile utala e mi?"

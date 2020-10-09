@@ -1,7 +1,8 @@
 _ViridianForestExitText1::
 	text "monsuta poki mute"
 	line "li lon ma kasi"
-	cont "lon lupa ma taso."
+	cont "lon lupa kiwen"
+	cont "taso."
 
 	para "sina lukin lon"
 	line "ma ale la sina"

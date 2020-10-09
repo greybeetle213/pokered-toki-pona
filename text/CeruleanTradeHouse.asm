@@ -1,9 +1,10 @@
 _CeruleanHouse1Text1::
-	text "My husband likes"
-	line "trading #MON."
+	text "pana pi monsuta"
+	line "poki li pona tawa"
+	cont "jan mi."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "sina jan lawa la"
+	line "sina en ona li"
+	cont "ken ala ken pana"
+	cont "e monsuta poki?"
 	done

@@ -1,145 +1,147 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+	text "mu... mi o lape."
+	line "muuu..."
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
+	para "lupa kiwen LASO"
+	line "la tawa noka li"
+	cont "lape e jan!"
 	done
 
 _Route3BattleText1::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	text "o! mi lukin e"
+	line "sina lon ma kasi"
+	cont "PETA!"
 	done
 
 _Route3EndBattleText1::
-	text "You"
-	line "beat me again!"
+	text "sina anpa sin e"
+	line "mi!"
 	prompt
 
 _Route3AfterBattleText1::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
+	text "monsuta poki li"
+	line "lon ma kasi."
+	cont "monsuta poki ante"
+	cont "li lon ma ante!"
 	done
 
 _Route3BattleText2::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
+	text "toki! len noka"
+	line "lili li pona tawa"
+	cont "mi!"
 	done
 
 _Route3EndBattleText2::
-	text "I don't"
-	line "believe it!"
+	text "s-seme?!"
 	prompt
 
 _Route3AfterBattleText2::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	text "sina jo e monsuta"
+	line "poki sina lon ilo"
+	cont "nanpa? poki ken"
+	cont "jo e monsuta poki"
+	cont "20!"
 	done
 
 _Route3BattleText3::
-	text "You looked at me,"
-	line "didn't you?"
+	text "sina lukin e mi"
+	line "anu seme?"
 	done
 
 _Route3EndBattleText3::
-	text "You're"
-	line "mean!"
+	text "sina ike a!"
 	prompt
 
 _Route3AfterBattleText3::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
+	text "sina wile ala"
+	line "utala la o pini"
+	cont "lukin e mi!"
 	done
 
 _Route3BattleText4::
-	text "Are you a trainer?"
-	line "Let's fight!"
+	text "sina jan lawa?"
+	line "mi o utala!"
 	done
 
 _Route3EndBattleText4::
-	text "If I"
-	line "had new #MON I"
-	cont "would've won!"
+	text "mi jo e monsuta"
+	line "poki sin la mi"
+	cont "anpa e sina!"
 	prompt
 
 _Route3AfterBattleText4::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
+	text "poki pi ilo nanpa"
+	line "li kama pini la"
+	cont "sina wile kepeken"
+	cont "e poki ante!"
 	done
 
 _Route3BattleText5::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
+	text "sina lukin e mi"
+	line "la ona li pona"
+	cont "tawa mi!"
 	done
 
 _Route3EndBattleText5::
-	text "Be nice!"
+	text "o pona!"
 	prompt
 
 _Route3AfterBattleText5::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
+	text "sina wile weka e"
+	line "utala la o weka e"
+	cont "lukin ona!"
 	done
 
 _Route3BattleText6::
-	text "Hey! You're not"
-	line "wearing shorts!"
+	text "a! sina jo ala e"
+	line "len noka lili!"
 	done
 
 _Route3EndBattleText6::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "pini!"
+	line "pini! pini!"
 	prompt
 
 _Route3AfterBattleText6::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
+	text "tenpo ale la mi"
+	line "jo e ona! lon"
+	cont "tenpo lete kin!"
 	done
 
 _Route3BattleText7::
-	text "You can fight my"
-	line "new #MON!"
+	text "sina ken utala e"
+	line "monsuta poki sin"
+	cont "mi!"
 	done
 
 _Route3EndBattleText7::
-	text "Done"
-	line "like dinner!"
+	text "sina"
+	line "pini!"
 	prompt
 
 _Route3AfterBattleText7::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
+	text "monsuta poki pi"
+	line "jan lawa li wawa."
+	cont "monsuta poki ike"
+	cont "li wawa lili."
 	done
 
 _Route3BattleText8::
-	text "Eek! Did you"
-	line "touch me?"
+	text "a! sina luka ala"
+	line "luka e mi?"
 	done
 
 _Route3EndBattleText8::
-	text "That's it?"
+	text "ni li ale"
+	line "anu seme?"
 	prompt
 
 _Route3AfterBattleText8::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	text "NASIN 4 li lon"
+	line "anpa pi nena MUN."
 	done
 
 _Route3Text10::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	text "NASIN 3"
+	line "tawa nena MUN"
 	done

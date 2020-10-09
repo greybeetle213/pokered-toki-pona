@@ -28,7 +28,7 @@ ItemNames::
 	db "KEN EWE@"
 	db "KEN MA@"
 	db "LINJA WEKA@"
-	db "WEKA@"
+	db "ILO WEKA@"
 	db "KIWEN MAJUNA@"
 	db "KIWEN SELI@"
 	db "KIWEN TENKI@"

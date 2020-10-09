@@ -26,9 +26,9 @@ _ViridianFrstAfterBattleText1::
 	done
 
 _ViridianForestBattleText2::
-	text "o! sina jan lawa "
-	line "la sina ken ala"
-	cont "musi!"
+	text "o! sina jan lawa"
+	line "la sina ken musi"
+	cont "ala!"
 	done
 
 _ViridianForestEndBattleText2::
@@ -48,8 +48,8 @@ _ViridianForestBattleText3::
 	done
 
 _ViridianForestEndBattleText3::
-	text "mi"
-	line "pini! sina pona a!"
+	text "mi pini! sina"
+	line "pona a!"
 	prompt
 
 _ViridianFrstAfterBattleText3::
@@ -57,9 +57,9 @@ _ViridianFrstAfterBattleText3::
 	line "lukin e ijo lon"
 	cont "ma!"
 
-	para "mi lukin e ijo"
-	line "tan ni: mi weka e"
-	cont "ijo mi!"
+	para "mi lukin kama jo"
+	line "e ijo tan ni: mi"
+	cont "weka e ijo mi!"
 	done
 
 _ViridianForestText8::

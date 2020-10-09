@@ -1,11 +1,11 @@
 _PewterCityText1::
 	text "jan li toki e ni:"
-	line "ken la MUNA kama"
-	cont "tan mun!"
+	line "ken la MUNA li"
+	cont "kama tan mun!"
 
 	para "KIWEN MUN li anpa"
 	line "tawa nena MUN la"
-	cont "ona li lon."
+	cont "MUNA li lon."
 	done
 
 _PewterCityText2::

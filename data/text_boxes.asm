@@ -76,7 +76,7 @@ SafariZoneBattleMenuText:
 SwitchStatsCancelText:
 	db   "PANA"
 	next "NANPA"
-	next "WEKA@"
+	next "PINI@"
 
 JapaneseAhText:
 	db "アッ！@"

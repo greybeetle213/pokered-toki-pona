@@ -1,133 +1,141 @@
 _CeruleanGymText_5c7be::
-	text "Hi, you're a new"
-	line "face!"
+	text "toki, sina sin a!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "jan lawa li wile"
+	line "kama wawa la,"
+	cont "sina wile jo e"
+	cont "nasin!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "sina kama jo e"
+	line "monsuta poki la,"
+	cont "sina pali e seme?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "mi kepeken e"
+	line "monsuta poki telo"
+	cont "taso!"
 	done
 
 _CeruleanGymText_5c7c3::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "IS11 li sona e"
+	line "TELO LINJA!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "o pana e tawa"
+	line "monsuta poki"
+	cont "telo!"
 	done
 
 _CeruleanGymText_5c7c8::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "jan li jo e KEN"
+	line "TELO ni la,"
+	cont "monsuta poki lon"
+	cont "anpa pi nanpa"
+	cont "wawa 30 li kute"
+	cont "e sina!"
 
-	para "That includes"
-	line "even outsiders!"
+	para "monsuta poki tan"
+	line "jan lawa ante"
+	cont "kin!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "kin la, sina ken"
+	line "kepeken e KIPISI"
+	cont "lon tenpo ale lon"
+	cont "ma ale!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "sina ken KIPISI e"
+	line "kasi lili tawa"
+	cont "pali pi nasin"
+	cont "sin!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "sina ken kama jo"
+	line "e IS pona mute"
+	cont "mi kin!"
 	done
 
 _ReceivedTM11Text::
-	text "<PLAYER> received"
-	line "TM11!@"
+	text "<PLAYER> li kama"
+	line "jo e IS11!@"
 	text_end
 
 _CeruleanGymText_5c7d3::
-	text "You better make"
-	line "room for this!"
+	text "sina wile e ken"
+	line "poki!"
 	done
 
 _CeruleanGymText_5c7d8::
-	text "Wow!"
-	line "You're too much!"
+	text "a!"
+	line "sina pona a!"
 
-	para "All right!"
+	para "oke!!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+	para "sina ken kama jo"
+	line "e KEN TELO tan"
+	cont "ni: sina anpa e"
+	cont "mi!@"
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "mi pona kin!"
 
-	para "MISTY can wait!"
+	para "jan MISI li ken"
+	line "awen!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text "sina anpa e mi!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "sina wile utala"
+	line "jan lawa ante tawa"
+	cont "lukin pi wawa sina."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "a!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "mi kama nanpa"
+	line "wan! mi mute o"
+	cont "open utala!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "ni"
+	line "li ike!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "jan MISI li awen"
+	line "li awen!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "jan sama sina"
+	line "anpa ala e ona!"
 	done
 
 _CeruleanGymText_5c82a::
-	text "Yo! Champ in"
-	line "making!"
+	text "a! jan pi kama"
+	line "wawa!"
 
-	para "Here's my advice!"
+	para "o kute!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "jan lawa MISI"
+	line "li wawa mute li"
+	cont "kepeken e monsuta"
+	cont "poki telo!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "sina ken weka e"
+	line "telo ona kepeken"
+	cont "monsuta poki"
+	cont "kasi!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "anu sina ken"
+	line "tenki e ona!"
 	done
 
 _CeruleanGymText_5c82f::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "sina anpa e jan"
+	line "MISI! mi toki e"
+	cont "ni!"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "sina en mi li,"
+	line "kulupu pona a!"
 	done

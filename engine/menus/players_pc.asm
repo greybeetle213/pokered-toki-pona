@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "kama jo e ijo"
-	next "pana e ijo"
-	next "weka e ijo"
-	next "weka@"
+	db   "KAMA JO E IJO"
+	next "PANA E IJO"
+	next "WEKA E IJO"
+	next "PINI@"
 
 TurnedOnPC2Text:
 	text_far _TurnedOnPC2Text

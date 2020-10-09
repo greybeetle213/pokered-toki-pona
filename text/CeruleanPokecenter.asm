@@ -1,24 +1,26 @@
 _CeruleanPokecenterText2::
-	text "That BILL!"
+	text "jan PI a!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "kute mi la ona li"
+	line "kama jo e monsuta"
+	cont "poki pi mute lili"
+	cont "kepeken nasin"
+	cont "ale."
 	done
 
 _CeruleanPokecenterText3::
-	text "Have you heard"
-	line "about BILL?"
+	text "sina sona ala"
+	line "sona e jan PI?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "jan li pana e"
+	line "nimi jan monsuta"
+	cont "tawa ona."
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "pilin mi la, jan"
+	line "li wile e pali"
+	cont "ona taso."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "jan seme li wile"
+	line "ala toki pona lon"
+	cont "monsuta poki ona?"
 	done

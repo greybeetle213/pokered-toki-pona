@@ -5,5 +5,5 @@ _Route2Text3::
 	done
 
 _Route2Text4::
-	text "ma lupa NENA"
+	text "lupa kiwen NENA"
 	done

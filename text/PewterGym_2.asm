@@ -27,7 +27,7 @@ _TM34ExplanationText::
 
 	para "IS li jo e sona."
 	line "monsuta poki li"
-	cont "ken kama sona e"
+	cont "ken kama jo e"
 	cont "sona ni!"
 
 	para "jan li ken"
@@ -51,9 +51,9 @@ _TM34NoRoomText::
 	done
 
 _PewterGymText_5c4bc::
-	text "mi pilin la sina"
-	line "wawa ike. taso"
-	cont "sin wawa."
+	text "mi pilin la"
+	line "sina wawa ike."
+	cont "taso sina wawa."
 
 	para "sina pini utala e"
 	line "mi la mi pana e"
@@ -76,7 +76,7 @@ _PewterGymText_5c4c1::
 	cont "kama wawa mute!"
 
 	para "sina ken kepeken"
-	line "ILO SONA SUNO"
+	line "ILO SONA pi SUNO"
 	cont "LILI!"
 	prompt
 
