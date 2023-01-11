@@ -19,7 +19,7 @@ _OaksLabText41::
 	line "poki mi li wawa"
 	cont "mute. monsuta"
 	cont "poki sina li"
-	cont "wawa ike."
+	cont "wawa lili."
 	done
 
 _OaksLabText39::
@@ -259,7 +259,7 @@ _OaksLabRivalReceivedMonText::
 _OaksLabRivalChallengeText::
 	text "<RIVAL>: o awen,"
 	line "<PLAYER> o!"
-	cont "mi mute o lukin e"
+	cont "mi tu o lukin e"
 	cont "monsuta poki."
 
 	para "a a, mi utala e"

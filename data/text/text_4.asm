@@ -162,19 +162,20 @@ _PokemonCenterWelcomeText::
 	text "kama pona tawa"
 	line "tomo sin mi!"
 
-	para "mi sin e monsuta"
-	line "poki sina tawa"
-	cont "sijelo pona!"
+	para "mi pona e sijelo"
+	line "pi monsuta poki"
+	cont "sina"
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "mi o sin monsuta"
-	line "poki sina?"
+	text "mi o pona ala"
+	line "pona e monsuta"
+	cont "poki sina?" 
 	done
 
 _NeedYourPokemonText::
-	text "oke. mi wile e"
-	line "monsuta poki"
+	text "pona. mi wile"
+	line "e monsuta poki"
 	cont "sina."
 	done
 

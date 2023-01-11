@@ -16,8 +16,8 @@ ViridianMartParcelQuestText::
 
 	para "ijo ona li kama"
 	line "insa. sina ken"
-	cont "ala ken jo e ijo"
-	cont "tawa ona?"
+	cont "ala ken pana e"
+	cont "ijo tawa ona?"
 
 	para "<PLAYER> li kama"
 	line "jo e LIPU OKU!@"

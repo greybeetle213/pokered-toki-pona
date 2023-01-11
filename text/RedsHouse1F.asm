@@ -1,14 +1,14 @@
 _MomWakeUpText::
 	text "MAMA: lon."
-	line "tenpo suno la"
-	cont "jan ale li weka."
-	cont "ilo lukin li"
-	cont "toki e ni."
+	line "tenpo suno ni"
+	cont "la jan ale li"
+	cont "weka. ilo lukin"
+	cont "li toki e ni."
 
 	para "jan OKU li lon"
 	line "tomo lon poka."
-	cont "ona alasa lukin"
-	cont "e sina."
+	cont "ona li alasa e"
+	cont "sina."
 	done
 
 _MomHealText1::

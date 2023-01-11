@@ -2,30 +2,32 @@ _CeruleanCityText_19668::
 	text "<RIVAL>: o!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+	para "sina tawa lili"
+	line "awen lon ma ni"
+	cont "anu seme?"
 
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
+	para "mi pona a li"
+	line "kama jo e "
+	cont "monsuta poki"
+	cont "mute pi sona"
+	cont "mute pi wawa"
+	cont "mute"
 
-	para "Here, let me see"
-	line "what you caught,"
-	cont "<PLAYER>!"
+	para "<PLAYER> o,"
+	line "mi wile lukin"
+	cont "e monsuta sina"
 	done
 
 _CeruleanCityText_1966d::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "a!"
+	line "o ala"
+	cont "sina anpa e mi"
 	prompt
 
 _CeruleanCityText_19672::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
+	text "aa!"
+	line "sina ken ala"
+	cont "anpa e sona mi"
 	prompt
 
 _CeruleanCityText_19677::
