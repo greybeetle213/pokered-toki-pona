@@ -31,7 +31,7 @@ MoveNames::
 	db "HORN ATTACK@"
 	db "FURY ATTACK@"
 	db "HORN DRILL@"
-	db "TACKLE@"
+	db "utala sijelo@"
 	db "BODY SLAM@"
 	db "WRAP@"
 	db "TAKE DOWN@"
