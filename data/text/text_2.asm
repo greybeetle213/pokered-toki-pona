@@ -785,14 +785,14 @@ _HiddenItemBagFullText::
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> li lukin"
+	text "<PLAYER> li kama jo"
 	line "e @"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " coins!@"
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> li lukin"
+	text "<PLAYER> li kama jo"
 	line "e @"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " coins!@"
@@ -1106,13 +1106,13 @@ _MonName1Text::
 
 _Used1Text::
 	text_start
-	line "li kepeken e"
+	line "li kepeken"
 	cont "@"
 	text_end
 
 _Used2Text::
 	text_start
-	line "li kepeken e"
+	line "li kepeken"
 	cont "@"
 	text_end
 

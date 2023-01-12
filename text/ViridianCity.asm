@@ -187,5 +187,5 @@ _ViridianCityText13::
 
 _ViridianCityText14::
 	text "lupa pi tomo wawa"
-	line "li open ike..."
+	line "li pini..."
 	done

@@ -58,7 +58,7 @@ _PokeCenterSignText::
 	done
 
 _FoundItemText::
-	text "<PLAYER> li lukin"
+	text "<PLAYER> li kama jo"
 	line "e @"
 	text_ram wcf4b
 	text "!@"

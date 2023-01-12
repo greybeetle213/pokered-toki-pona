@@ -1,5 +1,5 @@
 _ItemUseText001::
-	text "<PLAYER> used@"
+	text "<PLAYER> li kepeken @"
 	text_end
 
 _ItemUseText002::
@@ -8,7 +8,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "<PLAYER> li kepeken@"
 	text_end
 
 _GotOnBicycleText2::
@@ -17,32 +17,32 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "<PLAYER> li pini e kepeken@"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "@"
 	text_ram wcf4b
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "sina weka e"
 	line "@"
 	text_ram wcd6d
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "sina wile ala wile weka"
 	line "@"
 	text_ram wcf4b
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "sina ken ala weka ona."
+	line "ona li suli tawa sina"
 	prompt
 
 _AlreadyKnowsText::
@@ -189,12 +189,12 @@ _AfterTrade3Text::
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "sina ken ala"
+	line "kipisi e ni"
 	prompt
 
 _UsedCutText::
 	text_ram wcd6d
-	text " hacked"
-	line "away with CUT!"
+	text " li kipisi"
+	line "kepeken kipisi"
 	prompt

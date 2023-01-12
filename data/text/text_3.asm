@@ -100,11 +100,11 @@ _MonsStatsRoseText::
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>mute@"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text " li kama suli!"
 	prompt
 
 _MonsStatsFellText::
@@ -115,26 +115,26 @@ _MonsStatsFellText::
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text "<SCROLL>mute@"
 	text_end
 
 _FellText::
-	text " fell!"
+	text " li kama lili!"
 	prompt
 
 _RanFromBattleText::
-	text "<USER>"
-	line "ran from battle!"
+	text "<USER> li"
+	line "tawa tan utala!"
 	prompt
 
 _RanAwayScaredText::
-	text "<TARGET>"
-	line "ran away scared!"
+	text "<TARGET> li tawa"
+	line "weka tan monsuta"
 	prompt
 
 _WasBlownAwayText::
 	text "<TARGET>"
-	line "was blown away!"
+	line "li weka tan kon!"
 	prompt
 
 _ChargeMoveEffectText::
@@ -177,8 +177,8 @@ _BecameConfusedText::
 	prompt
 
 _MimicLearnedMoveText::
-	text "<USER>"
-	line "learned"
+	text "<USER> li kama"
+	line "sona e"
 	cont "@"
 	text_ram wcd6d
 	text "!"
@@ -201,7 +201,8 @@ _NoEffectText::
 	prompt
 
 _ButItFailedText::
-	text "taso li pali ala!"
+	text "taso ona li"
+	line "pali ala!"
 	prompt
 
 _DidntAffectText::

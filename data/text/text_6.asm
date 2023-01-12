@@ -29,9 +29,9 @@ _ItemUseBallText04::
 _ItemUseBallText05::
 	text "a!"
 	line "@"
+	text "sina kama jo e"
+	line "@"
 	text_ram wEnemyMonNick
-	text " li"
-	cont "kama jo!@"
 	text_end
 
 _ItemUseBallText07::
@@ -49,9 +49,9 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "sona sin li kama"
-	line "pana lon ilo sona"
-	cont "lon @"
+	text "ilo sona li kamaa"
+	line "jo e sona sin pi"
+	cont "@"
 	text_ram wEnemyMonNick
 	text "!@"
 	text_end
